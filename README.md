@@ -2,6 +2,8 @@
 
 ## A Look-and-Feel theme for KDE, deeply inspired by Arc Dark colors and Ayu Dark 
 
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/Desktop.png)
+
 ### INSTALLATION
 
 1. Download code (*Clone or Download* button).
@@ -39,10 +41,6 @@ https://store.kde.org/p/998895
 
 ### FIREFOX THEME
 * Follow this link --> https://bit.ly/2S3qe4B (It's a FireFox-Color link, just shortened!)
-
-#### --> Here's a Desktop Screenshot
-
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/Desktop.png)
 
 #### --> Firefox Screenshot
 
