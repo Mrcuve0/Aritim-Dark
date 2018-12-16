@@ -24,7 +24,7 @@ kpackagetool5 -i Aritim-Dark-KDE.zip
 * Arc KDE Laf theme
 https://store.kde.org/p/1167640/
 
-* Color Scheme (Aritim-Dark) TODO: ADD COLORSCHEME
+* Color Scheme (Aritim-Dark)
 https://store.kde.org/p/1280295/
 
 * Icon theme (Papirus)
