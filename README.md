@@ -25,7 +25,7 @@ kpackagetool5 -i Aritim-Dark-KDE.zip
 https://store.kde.org/p/1167640/
 
 * Color Scheme (Aritim-Dark) TODO: ADD COLORSCHEME
-
+https://store.kde.org/p/1280295/
 
 * Icon theme (Papirus)
 https://store.kde.org/p/1166289
