@@ -7,17 +7,13 @@
 ### INSTALLATION
 
 1. Download code (*Clone or Download* button).
-2. Copy zip into your ```.local/share/plasma/look-and-feel/``` folder using 
+2. Move into your Download folder and Install *Aritim-Dark-KDE* theme using
 ```bash
-cp Aritim-Dark-KDE.zip /home/$USER/.local/share/plasma/look-and-feel/
+kpackagetool5 -i Aritim-Dark-KDE-master.zip
 ```
-3. Install *Aritim-Dark-KDE* theme using
-```bash
-kpackagetool5 -i Aritim-Dark-KDE.zip
-```
-4. Open `System Settings` --> `Workspace Theme` --> select `Aritim-Dark` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
-7. ???
-8. Profit
+3. Open `System Settings` --> `Workspace Theme` --> select `Aritim-Dark` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
+4. ???
+5. Profit
 
 ### DONATIONS
 If you liked the theme, you might consider a small donation at this **IOTA address**:
