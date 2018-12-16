@@ -19,9 +19,17 @@ kpackagetool5 -i Aritim-Dark-KDE.zip
 7. ???
 8. Profit
 
+### DONATIONS
+If you liked the theme, you might consider a small donation at this **IOTA address**:
+```
+X9PJQUDVWZVFQPXSSMXSEANOMIGKUQYDFTCAUVVOOQWAWUQQMHRYUWOHLFZQOCT9ARUQDFIIUSWMGJMICUDOC9XOUY
+```
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/QRCode.jpg)
+
+
 #### This LaF theme will also install (as dependencies):
 
-* Arc KDE Laf theme
+* Arc KDE Look-and-Feel theme
 https://store.kde.org/p/1167640/
 
 * Color Scheme (Aritim-Dark)
