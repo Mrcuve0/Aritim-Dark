@@ -12,8 +12,10 @@
 kpackagetool5 -i Aritim-Dark-KDE-master.zip
 ```
 3. Open `System Settings` --> `Workspace Theme` --> select `Aritim-Dark` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
-4. ???
-5. Profit
+4. Your system should now look like *Arc-Dark* theme, to actually import *Aritim-Dark* color scheme open `System Settings` --> `Colors` --> select `Aritim-Dark`.
+5. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+6. [Optional] SierraBreeze Window Decorations: follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
+7. Profit
 
 ### DONATIONS
 If you liked the theme, you might consider a small donation at this **IOTA address**:
@@ -23,7 +25,7 @@ X9PJQUDVWZVFQPXSSMXSEANOMIGKUQYDFTCAUVVOOQWAWUQQMHRYUWOHLFZQOCT9ARUQDFIIUSWMGJMI
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/QRCode.jpg)
 
 
-#### This LaF theme will also install (as dependencies):
+#### This Look-and-Feel theme will also install (as dependencies):
 
 * Arc KDE Look-and-Feel theme
 https://store.kde.org/p/1167640/
