@@ -46,7 +46,7 @@ https://store.kde.org/p/1200334
 https://store.kde.org/p/998895
 
 ### FIREFOX THEME
-* Follow this link --> https://bit.ly/2S3qe4B (It's a FireFox-Color link, just shortened!)
+* [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)
 
 #### --> Firefox Screenshot
 
