@@ -29,9 +29,6 @@ X9PJQUDVWZVFQPXSSMXSEANOMIGKUQYDFTCAUVVOOQWAWUQQMHRYUWOHLFZQOCT9ARUQDFIIUSWMGJMI
 * Color Scheme (Aritim-Dark)
 https://store.kde.org/p/1280295/
 
-* Icon theme (Papirus)
-https://store.kde.org/p/1166289
-
 * Plasmoid (Application Title)
 https://store.kde.org/p/1199712
 
