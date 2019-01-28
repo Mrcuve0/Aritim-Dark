@@ -32,8 +32,8 @@ https://store.kde.org/p/1280295/
 * Plasmoid (Application Title)
 https://store.kde.org/p/1199712
 
-* Plasmoid (Crypto Currencies Price)
-https://store.kde.org/p/1200334
+~~* Plasmoid (Crypto Currencies Price)
+https://store.kde.org/p/1200334~~ (removed, high CPU usage when offline)
 
 * Plasmoid (NetSpeed Widget)
 https://store.kde.org/p/998895
