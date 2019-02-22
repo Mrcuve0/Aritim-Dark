@@ -17,17 +17,27 @@ kpackagetool5 -i Aritim-Dark-KDE-master.zip
 6. Profit
 
 ### DONATIONS
-If you liked the theme, you might consider a small donation at this **IOTA address**:
+If you liked the theme, you can consider buying me a coffee with the following methods:
+
+1. Donate via PayPal [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
+
+2. Donate via LiberaPay [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
+
+3. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
 ```
 X9PJQUDVWZVFQPXSSMXSEANOMIGKUQYDFTCAUVVOOQWAWUQQMHRYUWOHLFZQOCT9ARUQDFIIUSWMGJMICUDOC9XOUY
 ```
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/QRCode.jpg)
 
 
+
 #### This Look-and-Feel theme will also install (as dependencies):
 
 * Color Scheme (Aritim-Dark)
-https://store.kde.org/p/1280295/
+https://store.kde.org/p/1280295
+
+* Wallpaper
+https://store.kde.org/p/1291306
 
 * Plasmoid (Application Title)
 https://store.kde.org/p/1199712
