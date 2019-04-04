@@ -2,6 +2,9 @@
 
 ## A Look-and-Feel theme for KDE, deeply inspired by Arc Dark colors and Ayu Dark 
 
+[![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
+[![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-KDE.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-KDE)
+
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/Desktop.png)
 
 ### INSTALLATION
