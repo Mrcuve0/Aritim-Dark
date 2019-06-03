@@ -74,6 +74,6 @@ https://store.kde.org/p/998895
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/VSCode.png)
 
 ### **LICENSE**
-This KDE look-and-feel theme, as long as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Dark-KDE/blob/master/LICENSE).
+This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Dark-KDE/blob/master/LICENSE).
 
 The original creator of the color palette is [Ike Ku](https://github.com/dempfi), who released his work under the [MIT license](https://github.com/dempfi/ayu/blob/master/LICENSE).
