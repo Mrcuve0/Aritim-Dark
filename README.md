@@ -7,7 +7,18 @@
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/Desktop.png)
 
-### INSTALLATION
+### **INSTALLATION**
+#### **> Recommended way**
+
+Download the theme from the [OpenDesktop site](https://store.kde.org/p/1281836/) or directly from the theme manager included in all the KDE-based distros:
+
+* Open `System Settings` --> `Workspace Theme` --> `Get New Look-And-Feel Themes`
+
+The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/1280295/) r directly from the theme manager included in all the KDE-based distros:
+
+* Open `System Settings` --> `Colors` --> `Get New Color Schemes`.
+
+#### **> CLI way**
 
 1. Download code (*Clone or Download* button).
 2. Move into your Download folder and Install *Aritim-Dark-KDE* theme using
@@ -19,7 +30,7 @@ kpackagetool5 -i Aritim-Dark-KDE-master.zip
 5. [Optional] SierraBreeze Window Decorations: follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
 6. Profit
 
-### DONATIONS
+### **DONATIONS**
 If you liked the theme, you can consider buying me a coffee with the following methods:
 
 1. Donate via PayPal [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
@@ -51,7 +62,7 @@ https://store.kde.org/p/1200334~~ (removed, high CPU usage when offline)
 * Plasmoid (NetSpeed Widget)
 https://store.kde.org/p/998895
 
-### FIREFOX THEME
+### **FIREFOX THEME**
 * [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)
 
 #### --> Firefox Screenshot
@@ -61,3 +72,8 @@ https://store.kde.org/p/998895
 #### --> Visual Studio Code Screenshot (βui - Ayu Theme)
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/VSCode.png)
+
+### **LICENSE**
+This KDE look-and-feel theme, as long as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Dark-KDE/blob/master/LICENSE).
+
+The original creator of the color palette is [Ike Ku](https://github.com/dempfi), who released his work under the [MIT license](https://github.com/dempfi/ayu/blob/master/LICENSE).
