@@ -1,4 +1,4 @@
-//var plasma = getApiVersion(1);
+var plasma = getApiVersion(1);
 var user = require("os").userInfo().username
 
 var layout = {
