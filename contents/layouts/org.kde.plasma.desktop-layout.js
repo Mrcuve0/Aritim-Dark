@@ -1,5 +1,4 @@
 var plasma = getApiVersion(1);
-var user = require("os").userInfo().username
 
 var layout = {
     "desktops": [
@@ -23,10 +22,13 @@ var layout = {
                 "/General": {
                     "arrangement": "1",
                     "iconSize": "3",
-                    "positions": "20,10,desktop:/Home.desktop,0,1,desktop:/Your Stuff Here,2,1,desktop:/OneDrive,1,1,desktop:/trash:⁄.desktop,19,9",
+                    "positions": "15,10,desktop:/Home.desktop,0,1,desktop:/Your Stuff Here,2,1,desktop:/OneDrive,1,1,desktop:/trash:⁄.desktop,14,7",
                     "previews": "false",
                     "showToolbox": "false",
                     "sortMode": "-1"
+                },
+                "/Wallpaper/org.kde.image/General": {
+                    "Image": "file:///home/sem/Pictures/Wallpapers/sea_shore_minimalism_100029_1920x1080.jpg"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
