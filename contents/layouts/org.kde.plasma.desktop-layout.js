@@ -27,9 +27,6 @@ var layout = {
                     "previews": "false",
                     "showToolbox": "false",
                     "sortMode": "-1"
-                },
-                "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///home/" + user + "/Pictures/Wallpapers/Unsplash/Starry Nebula 219.png"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
@@ -281,7 +278,7 @@ var layout = {
                             "launchers": "applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop,applications:telegramdesktop.desktop,applications:clementine.desktop,applications:spotify.desktop,applications:visual-studio-code.desktop,applications:virt-manager.desktop,applications:qbittorrent.desktop,applications:octopi.desktop,applications:org.kde.ksysguard.desktop,applications:systemsettings.desktop"
                         },
                         "/Configuration/General": {
-                            "launchers": "applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop,applications:telegramdesktop.desktop,applications:firefox.desktop,applications:clementine.desktop,applications:spotify.desktop,applications:visual-studio-code.desktop,applications:emacs.desktop,applications:virtualbox.desktop,applications:qbittorrent.desktop,applications:octopi.desktop,applications:org.kde.ksysguard.desktop,applications:systemsettings.desktop"
+                            "launchers": "applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop,applications:telegramdesktop.desktop,applications:clementine.desktop,applications:spotify.desktop,applications:visual-studio-code.desktop,applications:virtualbox.desktop,applications:qbittorrent.desktop,applications:octopi.desktop,applications:org.kde.ksysguard.desktop,applications:systemsettings.desktop"
                         }
                     },
                     "plugin": "org.kde.plasma.icontasks"
@@ -360,14 +357,6 @@ var layout = {
                             "PreloadWeight": "0",
                             "immutability": "1"
                         },
-                        "/Configuration/Advanced": {
-                            "interfacesWhitelist": "wlp2s0",
-                            "interfacesWhitelistEnabled": "true"
-                        },
-                        "/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
                         "/Configuration/Configuration": {
                             "PreloadWeight": "42",
                             "immutability": "1"
@@ -387,7 +376,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "96",
+                            "PreloadWeight": "100",
                             "immutability": "1"
                         },
                         "/Configuration/Configuration": {
@@ -424,7 +413,11 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "83"
+                            "PreloadWeight": "100"
+                        },
+                        "/Configuration/ConfigDialog": {
+                            "DialogHeight": "540",
+                            "DialogWidth": "720"
                         }
                     },
                     "plugin": "gr.ictpro.jsalatas.plasma.pstate"
@@ -459,6 +452,39 @@ var layout = {
                         }
                     },
                     "plugin": "org.kde.plasma.panelspacer"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        },
+                        "/Configuration": {
+                            "PreloadWeight": "37",
+                            "immutability": "1"
+                        },
+                        "/Configuration/Appearance": {
+                            "pin": "",
+                            "showSeconds": "true"
+                        },
+                        "/Configuration/Configuration": {
+                            "PreloadWeight": "42",
+                            "immutability": "1"
+                        },
+                        "/Configuration/Configuration/Appearance": {
+                            "showSeconds": "true"
+                        },
+                        "/Configuration/Configuration/Configuration": {
+                            "PreloadWeight": "0"
+                        },
+                        "/Configuration/Configuration/Configuration/Appearance": {
+                            "showSeconds": "true"
+                        },
+                        "/Configuration/Configuration/Configuration/ConfigDialog": {
+                            "DialogHeight": "540",
+                            "DialogWidth": "720"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.digitalclock"
                 },
                 {
                     "config": {
@@ -532,7 +558,7 @@ var layout = {
                     "wallpaperplugin": "org.kde.image"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "84",
+                    "DialogHeight": "74",
                     "DialogWidth": "1920"
                 },
                 "/Configuration": {
