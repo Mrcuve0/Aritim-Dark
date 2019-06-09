@@ -5,7 +5,10 @@
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 [![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-KDE.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-KDE)
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/Desktop.png)
+
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/CleanDesktop.png)
+
+**You can find other screenshots [here](https://www.pling.com/p/1281836/).**
 
 ### **INSTALLATION**
 #### **> Recommended way**
@@ -14,7 +17,7 @@ Download the theme from the [OpenDesktop site](https://store.kde.org/p/1281836/)
 
 * Open `System Settings` --> `Workspace Theme` --> `Get New Look-And-Feel Themes`
 
-The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/1280295/) r directly from the theme manager included in all the KDE-based distros:
+The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/1280295/) or directly from the theme manager included in all the KDE-based distros:
 
 * Open `System Settings` --> `Colors` --> `Get New Color Schemes`.
 
@@ -45,35 +48,33 @@ X9PJQUDVWZVFQPXSSMXSEANOMIGKUQYDFTCAUVVOOQWAWUQQMHRYUWOHLFZQOCT9ARUQDFIIUSWMGJMI
 
 
 
-#### This Look-and-Feel theme will also install (as dependencies):
+#### **This Look-and-Feel theme will also install (as dependencies):**
 
-* Color Scheme (Aritim-Dark)
-https://store.kde.org/p/1280295
+* Color Scheme [Aritim-Dark](https://store.kde.org/p/1280295)
 
-* Wallpaper
-https://store.kde.org/p/1291306
+* [Wallpaper](https://store.kde.org/p/1291306) (Aritim-Dark version < 0.5)
 
-* Plasmoid (Application Title)
-https://store.kde.org/p/1199712
+* [Wallpaper](https://www.pling.com/p/1272202/) (Aritim-Dark version >= 0.5, wallpaper by [Charlie Henson](https://www.pling.com/u/charlie-henson/))
 
-~~* Plasmoid (Crypto Currencies Price)
-https://store.kde.org/p/1200334~~ (removed, high CPU usage when offline)
 
-* Plasmoid (NetSpeed Widget)
-https://store.kde.org/p/998895
+* Plasmoid [Application Title](https://store.kde.org/p/1199712)
+
+
+* ~~Plasmoid [Crypto Currencies Price](https://store.kde.org/p/1200334)~~ (removed, high CPU usage when offline)
+
+* Plasmoid [NetSpeed Widget](https://store.kde.org/p/998895)
+
+* Plasmoid [Event Calendar](https://www.pling.com/p/998901/)
+
+* Plasmoid [GitHub Issues](https://www.pling.com/p/1271237/)
 
 ### **FIREFOX THEME**
 * [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)
 
-#### --> Firefox Screenshot
-
+#### **--> Firefox Screenshot**
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/FirefoxTheme.png)
 
-#### --> Visual Studio Code Screenshot (βui - Ayu Theme)
+#### **--> Visual Studio Code Screenshot (βui - Ayu Theme)**
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/VSCode.png)
 
-### **LICENSE**
-This KDE look-and-feel theme, as long as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Dark-KDE/blob/master/LICENSE).
-
-The original creator of the color palette is [Ike Ku](https://github.com/dempfi), who released his work under the [MIT license](https://github.com/dempfi/ayu/blob/master/LICENSE).
