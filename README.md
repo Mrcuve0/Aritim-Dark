@@ -13,7 +13,7 @@
 ### **INSTALLATION**
 #### **> Recommended way**
 
-Download the theme from the [OpenDesktop site](https://store.kde.org/p/1281836/) or directly from the theme manager included in all the KDE-based distros:
+ Download the theme directly from the theme manager included in all the KDE-based distros:
 
 * Open `System Settings` --> `Workspace Theme` --> `Get New Look-And-Feel Themes`
 
@@ -23,7 +23,7 @@ The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling
 
 #### **> CLI way**
 
-1. Download code (*Clone or Download* button).
+1. Download the theme from the [OpenDesktop site](https://store.kde.org/p/1281836/)
 2. Move into your Download folder and Install *Aritim-Dark-KDE* theme using
 ```bash
 kpackagetool5 -i Aritim-Dark-KDE-master.zip
