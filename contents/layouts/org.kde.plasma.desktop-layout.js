@@ -33,59 +33,6 @@ var layout = {
                 }
             },
             "wallpaperPlugin": "org.kde.image"
-        },
-        {
-            "applets": [
-            ],
-            "config": {
-                "/": {
-                    "formfactor": "0",
-                    "immutability": "1",
-                    "lastScreen": "1",
-                    "wallpaperplugin": "org.kde.image"
-                },
-                "/ConfigDialog": {
-                    "DialogHeight": "761",
-                    "DialogWidth": "1194"
-                },
-                "/Configuration": {
-                    "PreloadWeight": "0"
-                },
-                "/General": {
-                    "ToolBoxButtonState": "topright",
-                    "ToolBoxButtonX": "1890"
-                },
-                "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///home/" + user + "/.local/share/wallpapers/Aritim-Light-Wallpaper-1920x1080.jpg"
-                }
-            },
-            "wallpaperPlugin": "org.kde.image"
-        },
-        {
-            "applets": [
-            ],
-            "config": {
-                "/": {
-                    "formfactor": "0",
-                    "immutability": "1",
-                    "lastScreen": "2",
-                    "wallpaperplugin": "org.kde.image"
-                },
-                "/ConfigDialog": {
-                    "DialogHeight": "540",
-                    "DialogWidth": "720"
-                },
-                "/Configuration": {
-                    "PreloadWeight": "0"
-                },
-                "/General": {
-                    "sortMode": "-1"
-                },
-                "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///home/" + user + "/.local/share/wallpapers/sea_shore_minimalism_100029_1920x1080.jpg"
-                }
-            },
-            "wallpaperPlugin": "org.kde.image"
         }
     ],
     "panels": [
