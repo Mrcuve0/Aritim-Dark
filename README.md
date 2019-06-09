@@ -71,13 +71,6 @@ X9PJQUDVWZVFQPXSSMXSEANOMIGKUQYDFTCAUVVOOQWAWUQQMHRYUWOHLFZQOCT9ARUQDFIIUSWMGJMI
 ### **FIREFOX THEME**
 * [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)
 
-#### **--> Firefox Screenshot**
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/FirefoxTheme.png)
-
-#### **--> Visual Studio Code Screenshot (βui - Ayu Theme)**
-
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/VSCode.png)
-
 ### **LICENSE**
 This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Dark-KDE/blob/master/LICENSE).
 
