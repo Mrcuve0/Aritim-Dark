@@ -378,6 +378,21 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
+                            "PreloadWeight": "64"
+                        },
+                        "/Configuration/ConfigDialog": {
+                            "DialogHeight": "540",
+                            "DialogWidth": "1104"
+                        }
+                    },
+                    "plugin": "com.github.zren.githubissues"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        },
+                        "/Configuration": {
                             "PreloadWeight": "100",
                             "immutability": "1"
                         },
@@ -461,32 +476,21 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "37",
-                            "immutability": "1"
+                            "PreloadWeight": "100"
                         },
-                        "/Configuration/Appearance": {
-                            "pin": "",
-                            "showSeconds": "true"
+                        "/Configuration/Calendar": {
+                            "firstDayOfWeek": "1"
                         },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
+                        "/Configuration/ConfigDialog": {
+                            "DialogHeight": "755",
+                            "DialogWidth": "1322"
                         },
-                        "/Configuration/Configuration/Appearance": {
-                            "showSeconds": "true"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/Appearance": {
-                            "showSeconds": "true"
-                        },
-                        "/Configuration/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
+                        "/Configuration/General": {
+                            "clock_line_2_height_ratio": "0.37",
+                            "clock_timeformat": "HH:mm:ss"
                         }
                     },
-                    "plugin": "org.kde.plasma.digitalclock"
+                    "plugin": "org.kde.plasma.eventcalendar"
                 },
                 {
                     "config": {
