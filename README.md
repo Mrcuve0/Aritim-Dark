@@ -8,7 +8,7 @@
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/CleanDesktop.png)
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/SystemMonitor0.5.1.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/SystemMonitor0.5.2.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1281836/).**
 
