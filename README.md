@@ -8,6 +8,8 @@
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/CleanDesktop.png)
 
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/SystemMonitor0.5.1.png)
+
 **You can find other screenshots [here](https://www.pling.com/p/1281836/).**
 
 ### **INSTALLATION**
@@ -55,6 +57,8 @@ X9PJQUDVWZVFQPXSSMXSEANOMIGKUQYDFTCAUVVOOQWAWUQQMHRYUWOHLFZQOCT9ARUQDFIIUSWMGJMI
 * [Wallpaper](https://store.kde.org/p/1291306) (Aritim-Dark version < 0.5)
 
 * [Wallpaper](https://www.pling.com/p/1272202/) (Aritim-Dark version >= 0.5, wallpaper by [Charlie Henson](https://www.pling.com/u/charlie-henson/))
+
+* [Wallpaper](https://www.pling.com/p/1310882/) (Aritim-Dark version >= 0.5.2, wallpaper by [Charlie Henson](https://www.pling.com/u/charlie-henson/))
 
 
 * Plasmoid [Application Title](https://store.kde.org/p/1199712)
