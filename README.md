@@ -15,7 +15,7 @@
 ### **INSTALLATION**
 #### **> Recommended way**
 
- Download the theme directly from the theme manager included in all the KDE-based distros:
+Download the theme directly from the theme manager included in all the KDE-based distros:
 
 * Open `System Settings` --> `Workspace Theme` --> `Get New Look-And-Feel Themes`
 
@@ -44,7 +44,7 @@ If you liked the theme, you can consider buying me a coffee with the following m
 
 3. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
 ```
-X9PJQUDVWZVFQPXSSMXSEANOMIGKUQYDFTCAUVVOOQWAWUQQMHRYUWOHLFZQOCT9ARUQDFIIUSWMGJMICUDOC9XOUY
+OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVULADJWOUUYBX
 ```
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/QRCode.jpg)
 
