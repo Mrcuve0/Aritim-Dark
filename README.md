@@ -54,15 +54,15 @@ OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVUL
 
 * Color Scheme [Aritim-Dark](https://store.kde.org/p/1280295)
 
-* [Wallpaper](https://store.kde.org/p/1291306) (Aritim-Dark version < 0.5)
+* [Wallpapers](https://www.pling.com/c/1318989/)
 
-* [Wallpaper](https://www.pling.com/p/1272202/) (Aritim-Dark version >= 0.5, wallpaper by [Charlie Henson](https://www.pling.com/u/charlie-henson/))
+* [Plasma Theme](https://www.pling.com/p/1309107/)
 
-* [Wallpaper](https://www.pling.com/p/1310882/) (Aritim-Dark version >= 0.5.2, wallpaper by [Charlie Henson](https://www.pling.com/u/charlie-henson/))
+* [Plasma Theme Opaque](https://www.pling.com/p/1312804/)
 
+* [Aurorae Theme](https://www.pling.com/p/1320512/)
 
 * Plasmoid [Application Title](https://store.kde.org/p/1199712)
-
 
 * ~~Plasmoid [Crypto Currencies Price](https://store.kde.org/p/1200334)~~ (removed, high CPU usage when offline)
 
@@ -70,7 +70,7 @@ OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVUL
 
 * Plasmoid [Event Calendar](https://www.pling.com/p/998901/)
 
-* Plasmoid [GitHub Issues](https://www.pling.com/p/1271237/)
+* ~~Plasmoid [GitHub Issues](https://www.pling.com/p/1271237/)~~ (removed)
 
 ### **FIREFOX THEME**
 * [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)
