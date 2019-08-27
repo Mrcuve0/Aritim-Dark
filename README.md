@@ -31,7 +31,7 @@ Please, refer to the badges "`development`" you can find at the top of each READ
 2. [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
 > This means I'm currently not considering the project as a top priority, hence issues and Pull Request will be still treated, but with higher delays. The development status can reach a higher priority ("Ongoing") or a lower one "Stopped" at any time.
 3. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
-4. > This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present itselves and really worth the effort. Issues and PR will be probably read but not considered.
+> This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present itselves and really worth the effort. Issues and PR will be probably read but not considered.
 
 As a general rule, take in mind that my entire GitHub profile (themes included!) is based on my sparse time and it is mainly passion-driven. As for now, my number one priority is finishing my Master's Degree in Embedded Systems: don't panic if I cannot reply to your issue even after a week, I'm probably really busy and I'm making already restless nights.
 
