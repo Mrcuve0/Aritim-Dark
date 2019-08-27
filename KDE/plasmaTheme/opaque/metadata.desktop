@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=The only dark theme I want
+Name=Aritim-Dark-Opaque
+X-KDE-PluginInfo-Author=Mrcuve0
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Email=puof@protonmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-Name=Aritim-Dark-Opaque
+X-KDE-PluginInfo-Version=0.5
+X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=true
+contrast=1.0
+saturation=1.7
