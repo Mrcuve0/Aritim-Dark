@@ -28,6 +28,29 @@ kpackagetool5 -i Aritim-Dark-KDE-master.zip
 4. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 5. [Optional] SierraBreeze Window Decorations (instead of the Aurorae ones already provided): follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
 
+### **DEPENDENCIES**
+This Look-and-Feel theme will also install (as dependencies):
+
+* Color Scheme [Aritim-Dark](https://store.kde.org/p/1280295)
+
+* [Wallpapers](https://www.pling.com/c/1318989/)
+
+* [Plasma Theme](https://www.pling.com/p/1309107/)
+
+* [Plasma Theme Opaque](https://www.pling.com/p/1312804/)
+
+* [Aurorae Theme](https://www.pling.com/p/1320512/)
+
+* Plasmoid [Application Title](https://store.kde.org/p/1199712)
+
+* ~~Plasmoid [Crypto Currencies Price](https://store.kde.org/p/1200334)~~ (removed, high CPU usage when offline)
+
+* Plasmoid [NetSpeed Widget](https://store.kde.org/p/998895)
+
+* Plasmoid [Event Calendar](https://www.pling.com/p/998901/)
+
+* ~~Plasmoid [GitHub Issues](https://www.pling.com/p/1271237/)~~ (removed)
+
 ### **DONATIONS**
 
 > I hope that this theme is to your liking and I hope that, as it was in my case, this can become your everyday theme.
@@ -51,28 +74,6 @@ Below you'll find infos on how you can do it:
 OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVULADJWOUUYBX
 ```
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/QRCode.jpg)
-
-#### **This Look-and-Feel theme will also install (as dependencies):**
-
-* Color Scheme [Aritim-Dark](https://store.kde.org/p/1280295)
-
-* [Wallpapers](https://www.pling.com/c/1318989/)
-
-* [Plasma Theme](https://www.pling.com/p/1309107/)
-
-* [Plasma Theme Opaque](https://www.pling.com/p/1312804/)
-
-* [Aurorae Theme](https://www.pling.com/p/1320512/)
-
-* Plasmoid [Application Title](https://store.kde.org/p/1199712)
-
-* ~~Plasmoid [Crypto Currencies Price](https://store.kde.org/p/1200334)~~ (removed, high CPU usage when offline)
-
-* Plasmoid [NetSpeed Widget](https://store.kde.org/p/998895)
-
-* Plasmoid [Event Calendar](https://www.pling.com/p/998901/)
-
-* ~~Plasmoid [GitHub Issues](https://www.pling.com/p/1271237/)~~ (removed)
 
 ### **LICENSE**
 This KDE look-and-feel theme is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Dark/blob/master/KDE/lookAndFeel/LICENSE).
