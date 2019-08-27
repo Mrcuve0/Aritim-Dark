@@ -3,12 +3,12 @@
 ## A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-KDE.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-KDE)
+[![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-KDE.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/KDE/screenshots/CleanDesktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/CleanDesktop.png)
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/KDE/screenshots/SystemMonitor0.5.2.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/SystemMonitor0.5.2.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1281836/).**
 
@@ -23,6 +23,9 @@ You'll find in each subfolder a `README.md` containing all the infos regarding:
 4. **License**
 5. **Donations**
 6. **(other)**
+
+### **FIREFOX THEME**
+* [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)
 
 ### **DONATIONS**
 
@@ -46,7 +49,7 @@ Below you'll find infos on how you can do it:
 ```
 OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVULADJWOUUYBX
 ```
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/QRCode.jpg)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/QRCode.jpg)
 
 ### **LICENSES**
 For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
