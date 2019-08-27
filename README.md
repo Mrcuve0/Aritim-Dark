@@ -3,7 +3,7 @@
 ## A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-KDE.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark)
+[![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark)
 
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/CleanDesktop.png)
@@ -23,6 +23,17 @@ You'll find in each subfolder a `README.md` containing all the infos regarding:
 4. **License**
 5. **Donations**
 6. **(other)**
+
+Please, refer to the badges "`development`" you can find at the top of each README, here's some additional infos:
+
+1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
+> This means I'm currently enhancing/fixing the project. I'm open to suggestions and Pull Requests, that will be treated as soon as possible.
+2. [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
+> This means I'm currently not considering the project as a top priority, hence issues and Pull Request will be still treated, but with higher delays. The development status can reach a higher priority ("Ongoing") or a lower one "Stopped" at any time.
+3. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
+4. > This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present itselves and really worth the effort. Issues and PR will be probably read but not considered.
+
+As a general rule, take in mind that my entire GitHub profile (themes included!) is based on my sparse time and it is mainly passion-driven. As for now, my number one priority is finishing my Master's Degree in Embedded Systems: don't panic if I cannot reply to your issue even after a week, I'm probably really busy and I'm making already restless nights.
 
 ### **FIREFOX THEME**
 * [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)
