@@ -3,9 +3,9 @@
 ## GTK porting of Aritim-Dark-KDE theme 
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
-[![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-GTK.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark-GTK)
+[![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Dark.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark)
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-GTK/master/Screenshots/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-GTK/master/screenshots/Desktop.png)
 
 ### INSTALLATION
 
@@ -24,8 +24,19 @@ mkdir -p ~/.themes && cp -r aritim-dark-gtk/Aritim-DArk-GTK* ~/.themes/ &&
 gsettings set org.gnome.desktop.interface gtk-theme "Aritim-Dark-GTK"
 ```
 
-### DONATIONS
-If you liked the theme, you can consider buying me a coffee with the following methods:
+### **DONATIONS**
+
+> I hope that this theme is to your liking and I hope that, as it was in my case, this can become your everyday theme.
+>
+> I am sure you will appreciate all the work behind this repo and the many hours of my free time that I have dedicated (and will continue to devote) to this project.
+> 
+> If you want, you can consider a small donation to support future developments for this and many new projects that will come in the future.
+>
+> Thank you for your time.
+> 
+>Mrcuve0
+
+Below you'll find infos on how you can do it:
 
 1. Donate via PayPal [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
@@ -35,7 +46,7 @@ If you liked the theme, you can consider buying me a coffee with the following m
 ```
 OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVULADJWOUUYBX
 ```
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/QRCode.jpg)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/QRCode.jpg)
 
 ### FIREFOX THEME
 * [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)
