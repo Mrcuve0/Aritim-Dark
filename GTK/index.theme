@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Aritim-Dark-GTK
+Name=oomox-Aritim-Dark
 Comment=The only dark theme I want
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Darker
-MetacityTheme=Arc-Darker
+GtkTheme=Aritim-Dark
+MetacityTheme=Aritim-Dark
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
