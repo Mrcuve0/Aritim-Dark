@@ -5,7 +5,7 @@
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
 [![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Dark.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark)
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-GTK/master/screenshots/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/GTK/screenshots/Desktop.png)
 
 ### INSTALLATION
 
