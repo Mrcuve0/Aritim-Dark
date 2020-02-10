@@ -20,7 +20,7 @@
 ```sh
 cd /tmp && rm -rf Aritim-Dark-GTK &&
 git clone https://github.com/Mrcuve0/Aritim-Dark-GTK &&
-mkdir -p ~/.themes && cp -r aritim-dark-gtk/Aritim-DArk-GTK* ~/.themes/ &&
+mkdir -p ~/.themes && cp -r aritim-dark-gtk/Aritim-Dark-GTK* ~/.themes/ &&
 gsettings set org.gnome.desktop.interface gtk-theme "Aritim-Dark-GTK"
 ```
 
