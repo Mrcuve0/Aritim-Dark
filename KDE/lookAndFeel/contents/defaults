@@ -11,7 +11,7 @@ widgetStyle=breeze
 LayoutName=org.kde.breeze.desktop
 
 [kwinrc][WindowSwitcher]
-LayoutName=org.kde.breeze.desktop
+LayoutName=thumbnails
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
