@@ -49,6 +49,8 @@ Please, refer to the badges "`development`" you can find at the top of each READ
 * [Aritim-Dark for **Mailspring**](https://github.com/kaluk1321/mailspring-aritim-dark) (by [Alvaro Oliveira](https://github.com/kaluk1321))
 * [Aritim-Dark for **Spicetify**](https://github.com/kaluk1321/spicetify-aritim-dark) (by [Alvaro Oliveira](https://github.com/kaluk1321))
 
+A big **thank you** goes to all the contributors, you are awesome!
+
 ----
 
 ### **DONATIONS**
