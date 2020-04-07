@@ -1,29 +1,6 @@
 var plasma = getApiVersion(1);
 
 var layout = {
-    "desktops": [
-        {
-            "applets": [
-            ],
-            "config": {
-                "/": {
-                    "ItemGeometriesHorizontal": "",
-                    "formfactor": "0",
-                    "immutability": "1",
-                    "lastScreen": "0",
-                    "wallpaperplugin": "org.kde.image"
-                },
-                "/ConfigDialog": {
-                    "DialogHeight": "800",
-                    "DialogWidth": "1420"
-                },
-                "/Configuration": {
-                    "PreloadWeight": "0"
-                },
-            },
-            "wallpaperPlugin": "org.kde.image"
-        },
-    ],
     "panels": [
         {
             "alignment": "center",

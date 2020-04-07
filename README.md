@@ -3,7 +3,7 @@
 ## A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark)
+[![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Dark)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
@@ -13,6 +13,8 @@
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/SystemMonitor0.5.2.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1281836/).**
+
+----
 
 ### **REPO ORGANIZATION**
 
@@ -37,8 +39,17 @@ Please, refer to the badges "`development`" you can find at the top of each READ
 
 *As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven. As for now, *my number one priority* is finishing my **Master's Degree in Embedded Systems**: don't panic if I cannot reply to your issue even after a week, I'm probably really busy and I'm making already restless nights.
 
-### **FIREFOX THEME**
-* [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/)
+----
+
+### **EXTRAS / COMMUNITY THEMES**
+
+* [Aritim-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/) (By me)
+* [Aritim-Dark for **Ulauncher**](https://github.com/TobiasDev/Ulauncher-Themes) (by [Tobias Johansson](https://github.com/TobiasDev))
+* [Aritim-Dark for **Joplin**](https://github.com/TobiasDev/Joplin-Custom-CSS) (by [Tobias Johansson](https://github.com/TobiasDev))
+* [Aritim-Dark for **Mailspring**](https://github.com/kaluk1321/mailspring-aritim-dark) (by [Alvaro Oliveira](https://github.com/kaluk1321))
+* [Aritim-Dark for **Spicetify**](https://github.com/kaluk1321/spicetify-aritim-dark) (by [Alvaro Oliveira](https://github.com/kaluk1321))
+
+----
 
 ### **DONATIONS**
 
@@ -63,6 +74,8 @@ Below you'll find infos on how you can do it:
 OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVULADJWOUUYBX
 ```
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/QRCode.jpg)
+
+----
 
 ### **LICENSES**
 For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
