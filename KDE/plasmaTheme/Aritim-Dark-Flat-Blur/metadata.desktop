@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Aritim-Dark (Flat Blur)
+Name=Aritim-Dark-Flat-Blur
 Comment=The only dark theme I want
 
 X-KDE-PluginInfo-Author=Mrcuve0
@@ -9,7 +9,7 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=CC BY-SA 4.0
 
 # The X-KDE-PluginInfo-Name entry should match the name of the sub-folder in share/plasma/desktoptheme where the SVG files for this theme exist. 
-X-KDE-PluginInfo-Name=Aritim-Dark (Flat Blur)
+X-KDE-PluginInfo-Name=Aritim-Dark-Flat-Blur
 
 # If you do changes to SVG files in your theme, make sure to update the version number X-KDE-PluginInfo-Version so Plasma can properly refresh its cache.
 X-KDE-PluginInfo-Version=0.6
@@ -22,7 +22,7 @@ X-Plasma-API=5.0
 
 # Adding some contrast to what is behind windows, panels or toolt ips (disabled by default)
 [ContrastEffect]
-contrast=0.30
+contrast=0.8
 enabled=true
 saturation=1.6
 
