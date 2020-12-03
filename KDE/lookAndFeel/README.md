@@ -30,6 +30,16 @@ kpackagetool5 -i Aritim-Dark-KDE-master.zip
 4. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 5. [Optional] SierraBreeze Window Decorations (instead of the Aurorae ones already provided): follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
 
+----
+
+### **AUR Packages**
+
+* [Aritim-Dark for **KDE**](https://aur.archlinux.org/packages/aritim-dark-kde/) ([bridnour](https://github.com/bridnour))
+
+A big **thank you** goes to all the contributors, you are awesome!
+
+----
+
 ### **DEPENDENCIES**
 This Look-and-Feel theme will also install (as dependencies):
 

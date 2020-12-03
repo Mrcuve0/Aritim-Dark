@@ -41,6 +41,15 @@ Please, refer to the badges "`development`" you can find at the top of each READ
 
 ----
 
+### **AUR Packages**
+
+* [Aritim-Dark for **KDE**](https://aur.archlinux.org/packages/aritim-dark-kde/) ([bridnour](https://github.com/bridnour))
+* [Aritim-Dark for **GTK**](https://aur.archlinux.org/packages/aritim-dark-gtk/) ([bridnour](https://github.com/bridnour))
+
+A big **thank you** goes to all the contributors, you are awesome!
+
+----
+
 ### **EXTRAS / COMMUNITY THEMES**
 
 * [Aritim-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/) (By me)
