@@ -35,6 +35,19 @@ kpackagetool5 -i Aritim-Dark-KDE-master.zip
 ### **AUR Packages**
 
 * [Aritim-Dark for **KDE**](https://aur.archlinux.org/packages/aritim-dark-kde/) ([bridnour](https://github.com/bridnour))
+* [Aritim-Dark for **GTK**](https://aur.archlinux.org/packages/aritim-dark-gtk/) ([bridnour](https://github.com/bridnour))
+
+A big **thank you** goes to all the contributors, you are awesome!
+
+----
+
+### **EXTRAS / COMMUNITY THEMES**
+
+* [Aritim-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/) (By me)
+* [Aritim-Dark for **Ulauncher**](https://github.com/TobiasDev/Ulauncher-Themes) (by [Tobias Johansson](https://github.com/TobiasDev))
+* [Aritim-Dark for **Joplin**](https://github.com/TobiasDev/Joplin-Custom-CSS) (by [Tobias Johansson](https://github.com/TobiasDev))
+* [Aritim-Dark for **Mailspring**](https://github.com/kaluk1321/mailspring-aritim-dark) (by [Alvaro Oliveira](https://github.com/kaluk1321))
+* [Aritim-Dark for **Spicetify**](https://github.com/kaluk1321/spicetify-aritim-dark) (by [Alvaro Oliveira](https://github.com/kaluk1321))
 
 A big **thank you** goes to all the contributors, you are awesome!
 
