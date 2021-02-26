@@ -12,7 +12,7 @@ X-KDE-PluginInfo-License=CC BY-SA 4.0
 X-KDE-PluginInfo-Name=Aritim-Dark-Flat-Solid
 
 # If you do changes to SVG files in your theme, make sure to update the version number X-KDE-PluginInfo-Version so Plasma can properly refresh its cache.
-X-KDE-PluginInfo-Version=0.6
+X-KDE-PluginInfo-Version=0.7
 X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
 X-Plasma-API=5.0
 
