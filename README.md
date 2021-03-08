@@ -8,9 +8,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/CleanDesktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/00-Desktop.png)
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/SystemMonitor0.5.2.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/01-Desktop.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1281836/).**
 
