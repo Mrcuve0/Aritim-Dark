@@ -1,10 +1,12 @@
-# Aritim-Dark-KDE
+# Aritim-Dark Theme
 
-## A Look-and-Feel theme for KDE, deeply inspired by Arc Dark colors and Ayu Dark 
+## A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
+[![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Dark)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
+
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/00-Desktop.png)
 
@@ -12,23 +14,30 @@
 
 **You can find other screenshots [here](https://www.pling.com/p/1281836/).**
 
-### **INSTALLATION**
-#### **> Recommended way**
+----
 
-Download the theme directly from the theme manager included in all the KDE-based distros:
+### **REPO ORGANIZATION**
 
-* Open `System Settings` --> `Workspace Theme` --> `Get New Look-And-Feel Themes`
+You can find everything you need in this repository, which is organized in subfolders.
+You'll find in each subfolder a `README.md` containing all the infos regarding:
 
-#### **> CLI way**
+1. **Introduction**
+2. **How to install**
+3. **Dependencies (if any)**
+4. **License**
+5. **Donations**
+6. **(other)**
 
-1. Download the theme from the [OpenDesktop site](https://store.kde.org/p/1281836/)
-2. Move into your Download folder and Install *Aritim-Dark-KDE* theme using (will also install dependencies)
-```bash
-kpackagetool5 -i Aritim-Dark-KDE-master.zip
-```
-3. Open `System Settings` --> `Workspace Theme` --> select `Aritim-Dark` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
-4. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
-5. [Optional] SierraBreeze Window Decorations (instead of the Aurorae ones already provided): follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
+Please, refer to the badges "`development`" you can find at the top of each README, here's some additional infos:
+
+1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
+> This means I'm currently enhancing/fixing the project. I'm open to suggestions and Pull Requests, that will be treated as soon as possible.
+2. [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
+> This means I'm currently not considering the project as a top priority, hence issues and Pull Request will be still treated, but with higher delays. The development status can reach a higher priority ("Ongoing") or a lower one "Stopped" at any time.
+3. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
+> This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present itselves and really worth the effort. Issues and PR will be probably read but not considered.
+
+*As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven. As for now, *my number one priority* is finishing my **Master's Degree in Embedded Systems**: don't panic if I cannot reply to your issue even after a week, I'm probably really busy and I'm making already restless nights.
 
 ----
 
@@ -52,29 +61,6 @@ A big **thank you** goes to all the contributors, you are awesome!
 A big **thank you** goes to all the contributors, you are awesome!
 
 ----
-
-### **DEPENDENCIES**
-This Look-and-Feel theme will also install (as dependencies):
-
-* Color Scheme [Aritim-Dark](https://store.kde.org/p/1280295)
-
-* [Wallpapers](https://www.pling.com/c/1318989/)
-
-* [Plasma Theme](https://www.pling.com/p/1309107/)
-
-* [Plasma Theme Opaque](https://www.pling.com/p/1312804/)
-
-* [Aurorae Theme](https://www.pling.com/p/1320512/)
-
-* Plasmoid [Application Title](https://store.kde.org/p/1199712)
-
-* ~~Plasmoid [Crypto Currencies Price](https://store.kde.org/p/1200334)~~ (removed, high CPU usage when offline)
-
-* Plasmoid [NetSpeed Widget](https://store.kde.org/p/998895)
-
-* Plasmoid [Event Calendar](https://www.pling.com/p/998901/)
-
-* ~~Plasmoid [GitHub Issues](https://www.pling.com/p/1271237/)~~ (removed)
 
 ### **DONATIONS**
 
@@ -100,5 +86,16 @@ OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVUL
 ```
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/QRCode.jpg)
 
-### **LICENSE**
-This KDE look-and-feel theme is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Dark/blob/master/KDE/lookAndFeel/LICENSE).
+----
+
+### **LICENSES**
+For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
+I always try to be as correct and thankful as possible: if you see some inconsistencies on licenses please be free to open an issue/PR for this repo and explain the problem. I will reply ASAP and fix the issue. The last thing I want to do is to harm someone else's IP. 
+
+Of course, I'm expecting the same treatment in case you'll decide to publish modifications of my projects.
+
+Finally, like *Daft Punk* said:
+
+> We Are Human After All
+
+The original creator of the color palette is [Ike Ku](https://github.com/dempfi), who released his work under the [MIT license](https://github.com/dempfi/ayu/blob/master/LICENSE).

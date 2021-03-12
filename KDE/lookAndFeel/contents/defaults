@@ -10,6 +10,9 @@ widgetStyle=breeze
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
+[konsolerc][Desktop Entry]
+DefaultProfile=Aritim-Dark.profile
+
 [kwinrc][WindowSwitcher]
 LayoutName=thumbnails
 

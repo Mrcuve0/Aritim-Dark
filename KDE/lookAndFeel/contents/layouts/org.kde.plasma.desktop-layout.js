@@ -1,6 +1,39 @@
 var plasma = getApiVersion(1);
 
 var layout = {
+    "desktops": [
+        {
+            "applets": [
+            ],
+            "config": {
+                "/": {
+                    "ItemGeometriesHorizontal": "",
+                    "formfactor": "0",
+                    "immutability": "1",
+                    "lastScreen": "10",
+                    "wallpaperplugin": "org.kde.image"
+                },
+                "/ConfigDialog": {
+                    "DialogHeight": "540",
+                    "DialogWidth": "720"
+                },
+                "/Configuration": {
+                    "PreloadWeight": "0"
+                },
+                "/General": {
+                    "ToolBoxButtonState": "topcenter",
+                    "ToolBoxButtonX": "561",
+                    "ToolBoxButtonY": "28",
+                    "iconSize": "2",
+                    "sortMode": "-1"
+                },
+                "/Wallpaper/org.kde.image/General": {
+                    "SlidePaths": "/usr/share/wallpapers"
+                }
+            },
+            "wallpaperPlugin": "org.kde.image"
+        }
+    ],
     "panels": [
         {
             "alignment": "center",
@@ -11,43 +44,11 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
                             "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "5"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "5"
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "5"
-                        },
-                        "/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "5"
                         },
                         "/Configuration/General": {
                             "expanding": "false",
-                            "length": "5"
+                            "length": "9"
                         }
                     },
                     "plugin": "org.kde.plasma.panelspacer"
@@ -58,87 +59,56 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "100",
+                            "PreloadWeight": "0"
+                        },
+                        "/Configuration/ConfigDialog": {
+                            "DialogHeight": "480",
+                            "DialogWidth": "640"
+                        },
+                        "/Configuration/General": {
+                            "containmentType": "Plasma",
+                            "filterActivityInfo": "false",
+                            "iconFillThickness": "false",
+                            "iconSize": "28",
+                            "placeHolder": "Plasma Desktop",
+                            "showIcon": "false"
+                        }
+                    },
+                    "plugin": "org.kde.windowtitle"
+                },
+                {
+                    "config": {
+                        "/": {
                             "immutability": "1"
+                        },
+                        "/Configuration": {
+                            "PreloadWeight": "0"
+                        },
+                        "/Configuration/General": {
+                            "expanding": "false",
+                            "length": "8"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.panelspacer"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        },
+                        "/Configuration": {
+                            "PreloadWeight": "10"
                         },
                         "/Configuration/ConfigDialog": {
                             "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "100",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "100",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "100",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "100"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/General": {
-                            "customButtonImage": "start-here-kde",
-                            "favoriteSystemActions": "save-session",
-                            "favoritesPortedToKAstats": "true",
-                            "useCustomButtonImage": "true"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "customButtonImage": "start-here-kde",
-                            "favoriteSystemActions": "save-session",
-                            "favoritesPortedToKAstats": "true",
-                            "useCustomButtonImage": "true"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Shortcuts": {
-                            "global": "Alt+F1"
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "customButtonImage": "start-here-kde",
-                            "favoriteSystemActions": "save-session",
-                            "favoritesPortedToKAstats": "true",
-                            "useCustomButtonImage": "true"
-                        },
-                        "/Configuration/Configuration/Configuration/Shortcuts": {
-                            "global": "Alt+F1"
-                        },
-                        "/Configuration/Configuration/General": {
-                            "customButtonImage": "start-here-kde",
-                            "favoriteSystemActions": "save-session",
-                            "favoritesPortedToKAstats": "true",
-                            "useCustomButtonImage": "true"
-                        },
-                        "/Configuration/Configuration/Shortcuts": {
-                            "global": "Alt+F1"
+                            "DialogWidth": "800"
                         },
                         "/Configuration/General": {
-                            "customButtonImage": "start-here-kde",
-                            "favoriteSystemActions": "save-session",
-                            "favoritesPortedToKAstats": "true",
-                            "useCustomButtonImage": "true"
-                        },
-                        "/Configuration/Shortcuts": {
-                            "global": "Alt+F1"
-                        },
-                        "/Shortcuts": {
-                            "global": "Alt+F1"
+                            "containmentType": "Plasma",
+                            "fillWidth": "true"
                         }
                     },
-                    "plugin": "org.kde.plasma.kicker"
+                    "plugin": "org.kde.windowappmenu"
                 },
                 {
                     "config": {
@@ -146,19 +116,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "4"
-                        },
-                        "/Configuration/General": {
-                            "expanding": "false",
-                            "length": "4"
+                            "PreloadWeight": "18"
                         }
                     },
                     "plugin": "org.kde.plasma.panelspacer"
@@ -169,261 +127,26 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "42",
+                            "PreloadWeight": "33"
+                        },
+                        "/Configuration/General": {
+                            "history": "#ffdfda,#e1f7ff"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.colorpicker"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        },
+                        "/Configuration": {
+                            "PreloadWeight": "0",
                             "immutability": "1"
                         },
                         "/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/General": {
-                            "bold": "true",
-                            "noWindowType": "desktopName",
-                            "textType": "1"
-                        },
-                        "/Configuration/General": {
-                            "bold": "true",
-                            "noWindowType": "text",
-                            "textType": "1"
-                        }
-                    },
-                    "plugin": "org.communia.apptitle"
-                },
-                {
-                    "config": {
-                        "/": {
-                            "immutability": "1"
-                        },
-                        "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "4"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "4"
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "4"
-                        },
-                        "/Configuration/General": {
-                            "expanding": "false",
-                            "length": "4"
-                        }
-                    },
-                    "plugin": "org.kde.plasma.panelspacer"
-                },
-                {
-                    "config": {
-                        "/": {
-                            "immutability": "1"
-                        },
-                        "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        }
-                    },
-                    "plugin": "org.kde.plasma.appmenu"
-                },
-                {
-                    "config": {
-                        "/": {
-                            "immutability": "1"
-                        },
-                        "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        }
-                    },
-                    "plugin": "org.kde.plasma.panelspacer"
-                },
-                {
-                    "config": {
-                        "/": {
-                            "immutability": "1"
-                        },
-                        "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/General": {
-                            "launchers": ""
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "launchers": ""
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "launchers": ""
-                        },
-                        "/Configuration/Configuration/General": {
-                            "launchers": ""
-                        },
-                        "/Configuration/General": {
-                            "launchers": ""
-                        }
-                    },
-                    "plugin": "org.kde.plasma.icontasks"
-                },
-                {
-                    "config": {
-                        "/": {
-                            "immutability": "1"
-                        },
-                        "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "11"
-                        },
-                        "/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "11"
-                        },
-                        "/Configuration/General": {
-                            "expanding": "false",
-                            "length": "11"
-                        }
-                    },
-                    "plugin": "org.kde.plasma.panelspacer"
-                },
-                {
-                    "config": {
-                        "/": {
-                            "immutability": "1"
-                        },
-                        "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
+                            "DialogHeight": "480",
+                            "DialogWidth": "640"
                         }
                     },
                     "plugin": "org.kde.plasma.pager"
@@ -434,39 +157,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
+                            "PreloadWeight": "18"
                         },
                         "/Configuration/General": {
                             "expanding": "false",
@@ -481,29 +172,14 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Advanced": {
-                            "interfacesWhitelist": "wlp2s0,wlan0"
-                        },
-                        "/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration": {
                             "PreloadWeight": "0"
                         },
-                        "/Configuration/Configuration/Advanced": {
-                            "interfacesWhitelist": "wlp2s0",
-                            "interfacesWhitelistEnabled": "true"
+                        "/Configuration/Advanced": {
+                            "interfacesWhitelist": "wlan0"
                         },
-                        "/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/General": {
-                            "speedUnits": "bits"
+                        "/Configuration/ConfigDialog": {
+                            "DialogHeight": "480",
+                            "DialogWidth": "640"
                         }
                     },
                     "plugin": "org.kde.netspeedWidget"
@@ -514,26 +190,26 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "47",
+                            "PreloadWeight": "18"
+                        },
+                        "/Configuration/General": {
+                            "expanding": "false",
+                            "length": "8"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.panelspacer"
+                },
+                {
+                    "config": {
+                        "/": {
                             "immutability": "1"
                         },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "45",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration": {
+                        "/Configuration": {
                             "PreloadWeight": "100",
                             "immutability": "1"
                         },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "100"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/Containments/8": {
-                            "formfactor": "2"
+                        "/Configuration/Configuration": {
+                            "PreloadWeight": "60"
                         }
                     },
                     "plugin": "org.kde.plasma.systemtray"
@@ -544,35 +220,8 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
                             "PreloadWeight": "0",
                             "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
                         },
                         "/Configuration/Configuration/General": {
                             "expanding": "false",
@@ -591,28 +240,27 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "52",
-                            "immutability": "1"
+                            "PreloadWeight": "73"
+                        },
+                        "/Configuration/Calendar": {
+                            "monthCellRadius": "0.14864864864864866",
+                            "monthTodayStyle": "bigNumber"
                         },
                         "/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "937"
-                        },
-                        "/Configuration/Configuration": {
-                            "PreloadWeight": "40"
-                        },
-                        "/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "750",
-                            "DialogWidth": "1057"
-                        },
-                        "/Configuration/Configuration/General": {
-                            "clock_line_2_height_ratio": "0.43",
-                            "clock_timeformat": "HH:mm:ss"
+                            "DialogHeight": "1027",
+                            "DialogWidth": "1876"
                         },
                         "/Configuration/General": {
-                            "clock_line_2_height_ratio": "0.43",
-                            "clock_timeformat": "HH:mm:ss"
-                        },
+                            "bottomRowHeight": "350",
+                            "clockShowLine2": "true",
+                            "clockTimeFormat1": "HH:mm:ss",
+                            "clockTimeFormat2": "yyyy-MM-dd",
+                            "leftColumnWidth": "300",
+                            "topRowHeight": "105",
+                            "v71Migration": "true",
+                            "v72Migration": "true",
+                            "widgetShowMeteogram": "false"
+                        }
                     },
                     "plugin": "org.kde.plasma.eventcalendar"
                 },
@@ -622,35 +270,8 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
                             "PreloadWeight": "0",
                             "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "expanding": "false",
-                            "length": "8"
                         },
                         "/Configuration/Configuration/General": {
                             "expanding": "false",
@@ -669,7 +290,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "42"
+                            "PreloadWeight": "0"
                         }
                     },
                     "plugin": "org.kde.plasma.nightcolorcontrol"
@@ -680,36 +301,12 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration": {
                             "PreloadWeight": "0",
                             "immutability": "1"
                         },
-                        "/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "42",
-                            "immutability": "1"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration": {
-                            "PreloadWeight": "0"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/Configuration/General": {
-                            "show_lockScreen": "false"
-                        },
-                        "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "show_lockScreen": "false"
-                        },
-                        "/Configuration/Configuration/Configuration/General": {
-                            "show_lockScreen": "false"
+                        "/Configuration/Configuration/ConfigDialog": {
+                            "DialogHeight": "480",
+                            "DialogWidth": "640"
                         },
                         "/Configuration/Configuration/General": {
                             "show_lockScreen": "false"
@@ -719,6 +316,21 @@ var layout = {
                         }
                     },
                     "plugin": "org.kde.plasma.lock_logout"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        },
+                        "/Configuration": {
+                            "PreloadWeight": "0"
+                        },
+                        "/Configuration/General": {
+                            "expanding": "false",
+                            "length": "8"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.panelspacer"
                 }
             ],
             "config": {
@@ -729,23 +341,99 @@ var layout = {
                     "wallpaperplugin": "org.kde.image"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "84",
-                    "DialogWidth": "1680"
+                    "DialogHeight": "83",
+                    "DialogWidth": "1080"
                 },
                 "/Configuration": {
                     "PreloadWeight": "0"
                 }
             },
-            "height": 1.4444444444444444,
+            "height": 1.5555555555555556,
             "hiding": "normal",
             "location": "top",
-            "maximumLength": 93.33333333333333,
-            "minimumLength": 93.33333333333333,
+            "maximumLength": 106.66666666666667,
+            "minimumLength": 106.66666666666667,
+            "offset": 0
+        },
+        {
+            "alignment": "center",
+            "applets": [
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        },
+                        "/Configuration": {
+                            "PreloadWeight": "73"
+                        },
+                        "/Configuration/ConfigDialog": {
+                            "DialogHeight": "540",
+                            "DialogWidth": "720"
+                        },
+                        "/Configuration/General": {
+                            "customButtonImage": "manjaro-settings-manager-panel",
+                            "favoriteSystemActions": "logout,reboot,shutdown,save-session",
+                            "favoritesPortedToKAstats": "true",
+                            "useCustomButtonImage": "true"
+                        },
+                        "/Shortcuts": {
+                            "global": "Meta+F1"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.kickerdash"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        },
+                        "/Configuration": {
+                            "PreloadWeight": "0"
+                        },
+                        "/Configuration/ConfigDialog": {
+                            "DialogHeight": "480",
+                            "DialogWidth": "640"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.icontasks"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        },
+                        "/Configuration": {
+                            "PreloadWeight": "0"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.trash"
+                }
+            ],
+            "config": {
+                "/": {
+                    "formfactor": "3",
+                    "immutability": "1",
+                    "lastScreen": "0",
+                    "wallpaperplugin": "org.kde.image"
+                },
+                "/ConfigDialog": {
+                    "DialogHeight": "1080",
+                    "DialogWidth": "168"
+                },
+                "/Configuration": {
+                    "PreloadWeight": "0"
+                }
+            },
+            "height": 2.4444444444444446,
+            "hiding": "normal",
+            "location": "left",
+            "maximumLength": 60,
+            "minimumLength": 41.77777777777778,
             "offset": 0
         }
     ],
     "serializationFormatVersion": "1"
 }
-    ;
+;
 
 plasma.loadSerializedLayout(layout);
