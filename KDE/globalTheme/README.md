@@ -10,29 +10,23 @@
 ## **Installation**
 
 ### **1) 🛑 Install Lightly Theme Style**
+* To match the above screenshots, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Lightly repository](https://github.com/Luwx/Lightly).
 
-To match the above screenshots, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Lightly repository](https://github.com/Luwx/Lightly).
-
-Once Lightly installed, remember to go to:
+* Once Lightly installed, remember to go to:
 `System Settings` --> `Appearance` --> `Application Style` and `Window Decorations` in order to apply it to your system.
 
-You can install *Aritim-Dark* before or after *Lightly*, just remember to apply both once installed :D
+* You can install *Aritim-Dark* before or after *Lightly*, just remember to apply both once installed :D
 
 ### **2) 🎯 Install Aritim-Dark Theme**
 
-Aritim-Dark can be installed in one click from the `Settings` page provided by each KDE-based Linux distribution.
+* Aritim-Dark can be installed in one click from the `Settings` page provided by each KDE-based Linux distribution.
 
-* Open `System Settings` --> `Appearance` --> `Global Theme` section --> `Get New Global Themes...` button
-
-This will automatically install all the theme components (color scheme, plasma style etc...) you can find in this repository.
+* Open `System Settings` --> `Appearance` --> `Global Theme` section --> "`Get New Global Themes...`" button. This will automatically install all the theme components (color scheme, plasma style etc...) you can find in this repository.
 
 ### **3) 🎉 Enjoy!**
-
-I tend to leave the theme as generic as possible to please everyone's likings (and believe me it's not easy 😆), so some visual adjustments may be needed just after installation.
-
-**--> Now it's up to you!**
-
-Move panels here and there, change wallpapers as you like, the imagination is the only limit!
+* **Now it's up to you!**
+* I tend to leave the theme as generic as possible to please everyone's likings (and believe me it's not easy 😆), so some visual adjustments may be needed just after installation.
+* Move panels here and there, change wallpapers as you like, the imagination is the only limit!
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/00-Desktop.png)
 
@@ -100,13 +94,13 @@ Below you'll find infos on how you can do it:
         <img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png"/>
       </p>
 
-      <!-- <center><img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png"></center> -->
-
   * I also accept **bitcoin**:
       ```
       bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
       ```
-      <center><img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/BTCwallet.png"></center>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/BTCwallet.png"/>
+      </p>
 
 **2. Or ...**
    1. Donate via PayPal[![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
