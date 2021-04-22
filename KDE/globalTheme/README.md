@@ -95,6 +95,7 @@ Below you'll find infos on how you can do it:
       </p>
 
   * I also accept **bitcoin**:
+    <!-- ![btc_badge](https://img.shields.io/badge/BTC-bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg-%23F7931A?logo=bitcoin) -->
       ```
       bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
       ```
@@ -103,9 +104,9 @@ Below you'll find infos on how you can do it:
       </p>
 
 **2. Or ...**
-   1. Donate via PayPal[![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
-
-   2. Donate via LiberaPay [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
+   1. Donate via **LiberPay** or **PayPal**
+      * [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
+      * [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
 ### **5) 📎 LICENSES**
 For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
