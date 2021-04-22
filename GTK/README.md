@@ -39,11 +39,11 @@ A big **thank you** goes to all the contributors, you are awesome!
 
 ### **EXTRAS / COMMUNITY THEMES**
 
-* [Aritim-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/) (By me)
-* [Aritim-Dark for **Ulauncher**](https://github.com/TobiasDev/Ulauncher-Themes) (by [Tobias Johansson](https://github.com/TobiasDev))
-* [Aritim-Dark for **Joplin**](https://github.com/TobiasDev/Joplin-Custom-CSS) (by [Tobias Johansson](https://github.com/TobiasDev))
-* [Aritim-Dark for **Mailspring**](https://github.com/kaluk1321/mailspring-aritim-dark) (by [Alvaro Oliveira](https://github.com/kaluk1321))
-* [Aritim-Dark for **Spicetify**](https://github.com/kaluk1321/spicetify-aritim-dark) (by [Alvaro Oliveira](https://github.com/kaluk1321))
+* [Aritim-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-dark/) (me)
+* [Aritim-Dark for **Ulauncher**](https://github.com/TobiasDev/Ulauncher-Themes) ([Tobias Johansson](https://github.com/TobiasDev))
+* [Aritim-Dark for **Joplin**](https://github.com/TobiasDev/Joplin-Custom-CSS) ([Tobias Johansson](https://github.com/TobiasDev))
+* [Aritim-Dark for **Mailspring**](https://github.com/kaluk1321/mailspring-aritim-dark) ([Alvaro Oliveira](https://github.com/kaluk1321))
+* [Aritim-Dark for **Spicetify**](https://github.com/kaluk1321/spicetify-aritim-dark) ([Alvaro Oliveira](https://github.com/kaluk1321))
 
 A big **thank you** goes to all the contributors, you are awesome!
 
@@ -75,9 +75,9 @@ bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
 
 4. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
 ```
-RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZZROWQEERYD
+iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
 ```
-![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.jpg)
+![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png)
 
 ----
 
