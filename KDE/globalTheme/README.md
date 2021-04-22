@@ -1,4 +1,7 @@
-# **<p style="text-align: center;">Aritim-Dark Theme</p>**
+<!-- # **<p style="text-align: center;">Aritim-Dark Theme</p>** -->
+
+# **<p align="center">Aritim-Dark Theme</p>**
+
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 <!-- [![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Dark) -->
@@ -55,16 +58,12 @@ Move panels here and there, change wallpapers as you like, the imagination is th
   1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
      > This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present themselves and really worth the effort. Issues and PR will be probably read but not considered.
 
-----
-
 ### **2) 📦 AUR Packages**
 
 * [Aritim-Dark for **KDE**](https://aur.archlinux.org/packages/aritim-dark-kde/) ([bridnour](https://github.com/bridnour))
 * [Aritim-Dark for **GTK**](https://aur.archlinux.org/packages/aritim-dark-gtk/) ([bridnour](https://github.com/bridnour))
 
 A big **thank you** goes to all the contributors, you are awesome!
-
-----
 
 ### **3) 💣 Extras / Community Themes**
 
@@ -76,7 +75,6 @@ A big **thank you** goes to all the contributors, you are awesome!
 
 A big **thank you** goes to all the contributors, you are awesome!
 
----
 
 ### **4) 💙 DONATIONS**
 
@@ -98,7 +96,11 @@ Below you'll find infos on how you can do it:
       ```
       iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
       ```
-<center><img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png"></center>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png"/>
+      </p>
+
+      <!-- <center><img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png"></center> -->
 
   * I also accept **bitcoin**:
       ```
@@ -110,8 +112,6 @@ Below you'll find infos on how you can do it:
    1. Donate via PayPal[![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
    2. Donate via LiberaPay [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
-
-----
 
 ### **5) 📎 LICENSES**
 For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
