@@ -7,11 +7,11 @@ ColorScheme=AritimDark
 [kdeglobals][KDE]
 widgetStyle=breeze
 
-[kwinrc][DesktopSwitcher]
-LayoutName=org.kde.breeze.desktop
-
 [konsolerc][Desktop Entry]
 DefaultProfile=Aritim-Dark.profile
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
 
 [kwinrc][WindowSwitcher]
 LayoutName=thumbnails
@@ -21,4 +21,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Aritim-Dark
 
 [plasmarc][Theme]
-name=Aritim-Dark
+name=Aritim-Dark-Flat-Blur

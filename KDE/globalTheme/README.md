@@ -10,7 +10,7 @@
 ## **Installation**
 
 ### **1) 🛑 Install Lightly Theme Style**
-* To match the above screenshots, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Lightly repository](https://github.com/Luwx/Lightly).
+* To match the screenshots below, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Lightly repository](https://github.com/Luwx/Lightly).
 
 * Once Lightly installed, remember to go to:
 `System Settings` --> `Appearance` --> `Application Style` and `Window Decorations` in order to apply it to your system.
