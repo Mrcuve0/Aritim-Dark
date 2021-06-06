@@ -22,20 +22,10 @@ X-Plasma-API=5.0
 
 # Adding some contrast to what is behind windows, panels or toolt ips (disabled by default)
 [ContrastEffect]
-# enabled=true
-# contrast=0.8
-# saturation=1.6
-
-# Affects ONLY the contrast value
+contrast=0.8
 enabled=true
-contrast=0.5
-# intensity=0.4
-saturation=1.5
+saturation=1.6
 
 # Blurring what is behind windows, panels or tool tips. This is enabled by default.
 [BlurBehindEffect]
 enabled=true
-
-[AdaptiveTransparency]
-enabled=true
-

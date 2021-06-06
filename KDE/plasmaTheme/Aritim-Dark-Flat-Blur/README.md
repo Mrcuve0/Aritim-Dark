@@ -50,4 +50,4 @@ Below you'll find infos on how you can do it:
       * [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
 ### **📎 LICENSES**
-Released under the [GPLv3](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/main/KDE/plasmaTheme/LICENSE).
+Released under the [GPLv3](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/main/KDE/plasmaTheme/Aritim-Dark-Flat-Blur/LICENSE).
