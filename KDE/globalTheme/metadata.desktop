@@ -1,11 +1,13 @@
 [Desktop Entry]
 Comment=The only dark theme I want
 Name=Aritim-Dark
+
 X-KDE-PluginInfo-Author=Mrcuve0
 X-KDE-PluginInfo-Category=Plasma Look And Feel
 X-KDE-PluginInfo-Email=mrcuve0+themes@posteo.net
 X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-License=GPLv3
+
 X-KDE-PluginInfo-Name=Aritim-Dark
 X-KDE-PluginInfo-Version=1.1
 X-KDE-PluginInfo-Website=https://.github.com/Mrcuve0
