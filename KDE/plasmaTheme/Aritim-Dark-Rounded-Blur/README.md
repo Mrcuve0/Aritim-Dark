@@ -6,8 +6,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 <!-- [![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Dark) -->
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/main/KDE/screenshots/00-Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/main/KDE/screenshots/01-Desktop.png)
+<!-- ROUNDED BLUR SCREENSHOTS HERE -->
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/main/KDE/plasmaTheme/screenshots/Rounded-Blur/00-Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/main/KDE/plasmaTheme/screenshots/Rounded-Blur/00-Desktop.png)
 
 <!-- **You can find other screenshots [here](https://www.pling.com/p/1290460/).** -->
 
@@ -50,4 +51,5 @@ Below you'll find infos on how you can do it:
       * [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
 ### **📎 LICENSES**
+<!-- ROUNDED BLUR LICENSE HERE -->
 Released under the [GPLv3](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/main/KDE/plasmaTheme/Aritim-Dark-Rounded-Blur/LICENSE).
