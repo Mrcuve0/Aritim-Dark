@@ -7,10 +7,10 @@ X-KDE-PluginInfo-Email=mrcuve0+themes@posteo.net
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPL 3+
 X-KDE-PluginInfo-Name=Aritim-Dark
-X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Version=1.1
 X-KDE-PluginInfo-Website=https://.github.com/Mrcuve0
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KPackage-Dependencies=kns://wallpaper.knsrc/api.kde-look.org/1291306,kns://wallpaper.knsrc/api.kde-look.org/1310882,kns://wallpaper.knsrc/api.kde-look.org/1272202,kns://wallpaper.knsrc/api.kde-look.org/1318981,kns://wallpaper.knsrc/api.kde-look.org/1488626,kns://colorschemes.knsrc/api.kde-look.org/1280295,kns://plasma-themes.knsrc/api.kde-look.org/1309107,kns://plasma-themes.knsrc/api.kde-look.org/1312804,kns://aurorae.knsrc/api.kde-look.org/1320512
+X-KPackage-Dependencies=kns://wallpaper.knsrc/api.kde-look.org/1291306,kns://wallpaper.knsrc/api.kde-look.org/1310882,kns://wallpaper.knsrc/api.kde-look.org/1272202,kns://wallpaper.knsrc/api.kde-look.org/1318981,kns://wallpaper.knsrc/api.kde-look.org/1488626,kns://colorschemes.knsrc/api.kde-look.org/1280295,kns://plasma-themes.knsrc/api.kde-look.org/1309107,kns://plasma-themes.knsrc/api.kde-look.org/1312804,kns://plasma-themes.knsrc/api.kde-look.org/1534788,kns://plasma-themes.knsrc/api.kde-look.org/1534821,kns://aurorae.knsrc/api.kde-look.org/1320512
 
 # kns://plasmoids.knsrc/api.kde-look.org/998901,kns://plasmoids.knsrc/api.kde-look.org/1199712,kns://plasmoids.knsrc/api.kde-look.org/1274218
 
