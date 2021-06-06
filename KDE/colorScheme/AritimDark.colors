@@ -93,8 +93,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=62,91,135
 
 [General]
-ColorScheme=Aritim-Dark_DEV
-Name=Aritim-Dark_DEV
+ColorScheme=Aritim-Dark
+Name=Aritim-Dark
 shadeSortColumn=true
 
 [KDE]
