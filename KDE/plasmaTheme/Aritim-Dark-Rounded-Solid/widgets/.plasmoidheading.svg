@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="112"
+   height="67.000015"
+   viewBox="0 0 112.00001 67.00002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="plasmoidheading.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3139"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop3137" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#b5c9e1"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="57.473816"
+     inkscape:cy="41.995011"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1874"
+     inkscape:window-height="1023"
+     inkscape:window-x="1966"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox-midpoints="true"
+     units="px"
+     fit-margin-top="10"
+     lock-margins="false"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       originx="-40.00001"
+       originy="-5.0000005" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.999968,-4.999965)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.3;fill-rule:nonzero;stroke-width:0.333333"
+       id="footer-center"
+       width="15.000009"
+       height="15.000037"
+       x="116.99992"
+       y="36.999962"
+       inkscape:label="#footer-center" />
+    <g
+       id="footer-right"
+       inkscape:label="#footer-right"
+       transform="matrix(2,0,0,1,-158.00003,-93.00002)"
+       style="fill-opacity:1">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.3"
+         id="rect851"
+         width="5"
+         height="15"
+         x="145"
+         y="130" />
+    </g>
+    <g
+       id="footer-bottom"
+       inkscape:label="#footer-bottom"
+       transform="matrix(0.99999994,0,0,2,-13.000033,-238.00004)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.3"
+         id="rect833"
+         width="15"
+         height="5"
+         x="130"
+         y="145" />
+    </g>
+    <g
+       id="footer-left"
+       inkscape:label="#footer-left"
+       transform="matrix(2,0,0,1,-143.00004,-93.000017)"
+       style="fill-opacity:1">
+      <g
+         id="g1006-5"
+         style="fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:0.3"
+           id="rect837"
+           width="5"
+           height="15"
+           x="125"
+           y="130" />
+      </g>
+    </g>
+    <path
+       id="header-center"
+       style="fill:#ffffff;fill-opacity:0.3;fill-rule:nonzero;stroke-width:0.333333"
+       inkscape:label="#header-center"
+       d="M 66.999962,36.999969 H 81.99997 V 52.000007 H 66.999962 Z" />
+    <g
+       id="header-topright"
+       inkscape:label="#header-topright"
+       transform="matrix(2,0,0,2,-208.00003,-223.00002)">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 145,130 h 5 c 0,-3 -2,-5 -5,-5 z"
+         id="path863-6-7-7"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="header-topleft"
+       inkscape:label="#header-topleft"
+       transform="matrix(2,0,0,2,-193.00004,-223.00004)">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 130,130 v -5 c -3,0 -5,2 -5,5 z"
+         id="path863-61"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="header-top"
+       inkscape:label="#header-top"
+       transform="matrix(0.66433525,0,0,2,-14.363632,-223.00002)">
+      <g
+         id="g997-6-7">
+        <path
+           id="rect847-4"
+           style="opacity:1;fill:#ffffff;fill-opacity:0.3"
+           d="M 122.47368,125 H 145 v 5 h -22.52632 z" />
+      </g>
+    </g>
+    <g
+       id="header-right"
+       inkscape:label="#header-right"
+       transform="matrix(2,0,0,1,-208.00003,-93.00002)"
+       style="fill-opacity:1">
+      <path
+         id="rect851-3"
+         style="fill:#ffffff;fill-opacity:0.3"
+         d="m 145,130 h 5 v 15 h -5 z" />
+    </g>
+    <g
+       id="header-left"
+       inkscape:label="#header-left"
+       transform="matrix(2,0,0,1,-193.00004,-93.000017)"
+       style="fill-opacity:1">
+      <g
+         id="g1006-5-2"
+         style="fill-opacity:1">
+        <path
+           id="rect837-0"
+           style="fill:#ffffff;fill-opacity:0.3"
+           d="m 125,130 h 5 v 15 h -5 z" />
+      </g>
+    </g>
+    <path
+       id="hint-stretch-borders"
+       d="m 49.999968,14.999965 h 2 v 2 h -2 z"
+       opacity="0.6"
+       style="stroke-width:0.4;fill:#ff0000;opacity:1"
+       inkscape:label="#hint-stretch-borders" />
+    <g
+       id="footer-bottomright"
+       inkscape:label="#footer-bottomright"
+       transform="matrix(2,0,0,2,-194.00004,-257.00004)">
+      <path
+         style="fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 163,154.5 v 5 c 3,0 5,-2 5,-5 z"
+         id="path863-6-7"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="footer-bottomleft"
+       inkscape:label="#footer-bottomleft"
+       transform="matrix(0,2,-2,0,425.99996,-274.00004)">
+      <path
+         style="fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 163,154.5 v 5 c 3,0 5,-2 5,-5 z"
+         id="path1471"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="header-bottomright"
+       inkscape:label="#header-bottomright">
+      <path
+         id="rect912"
+         style="fill:#ffffff;fill-opacity:0.301961;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label=""
+         d="m 81.999954,51.999966 h 10 v 10 h -10 z" />
+      <path
+         id="rect880"
+         style="fill:#9ab1cd;stroke-width:0.527046;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m 81.999954,60.999966 h 10.000004 v 1 H 81.999954 Z" />
+    </g>
+    <g
+       id="header-bottom"
+       inkscape:label="#header-bottom">
+      <g
+         id="g906"
+         inkscape:label=""
+         transform="matrix(0.99999994,0,0,2,-63.000034,-238.00004)">
+        <path
+           id="rect904"
+           style="fill:#ffffff;fill-opacity:0.3"
+           d="m 130,145 h 15 v 5 h -15 z" />
+      </g>
+      <path
+         id="rect878"
+         style="fill:#9ab1cd;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m 66.999954,60.999966 h 15 v 1 h -15 z" />
+    </g>
+    <g
+       id="footer-topleft"
+       inkscape:label="#footer-topleft">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.301961;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect920"
+         width="10"
+         height="10"
+         x="106.99995"
+         y="26.999964"
+         inkscape:label="" />
+      <rect
+         style="fill:#9ab1cd;stroke-width:0.527046;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect882"
+         width="10.000004"
+         height="1"
+         x="106.99995"
+         y="26.999966" />
+    </g>
+    <g
+       id="footer-topright"
+       inkscape:label="#footer-topright">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.301961;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect928"
+         width="10"
+         height="10"
+         x="131.99995"
+         y="26.999966"
+         inkscape:label="" />
+      <rect
+         style="fill:#9ab1cd;stroke-width:0.527046;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect886"
+         width="10.000004"
+         height="1"
+         x="131.99995"
+         y="26.999966" />
+    </g>
+    <path
+       id="hint-top-margin"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.774591"
+       inkscape:label="#hint-top-margin"
+       d="m 73.999947,26.999989 h 1 v 2.999975 h -1 z" />
+    <path
+       id="hint-right-margin"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.774598"
+       inkscape:label="#hint-right-margin"
+       d="m 88.999958,43.999966 h 3.000026 v 1 h -3.000026 z" />
+    <path
+       id="hint-bottom-margin"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.774591"
+       inkscape:label="#hint-bottom-margin"
+       d="m 73.999947,58.999965 h 1 v 2.999973 h -1 z" />
+    <path
+       id="hint-left-margin"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.774589"
+       inkscape:label="#hint-left-margin"
+       d="m 56.999973,43.999966 h 2.999985 v 1 h -2.999985 z" />
+    <g
+       id="header-bottomleft"
+       inkscape:label="#header-bottomleft">
+      <path
+         id="rect899"
+         clip-path="none"
+         style="fill:#ffffff;fill-opacity:0.301961;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label=""
+         d="m 56.999958,51.999966 h 10 v 10 h -10 z" />
+      <path
+         id="rect876"
+         style="fill:#9ab1cd;stroke-width:0.527046;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m 56.999958,60.999966 h 10 v 1 h -10 z" />
+    </g>
+    <g
+       id="footer-top"
+       inkscape:label="#footer-top"
+       transform="rotate(180,99.499956,44.499965)">
+      <g
+         id="g907"
+         inkscape:label=""
+         transform="matrix(0.99999994,0,0,2,-63.000034,-238.00004)">
+        <rect
+           style="fill:#ffffff;fill-opacity:0.3"
+           id="rect905"
+           width="15"
+           height="5"
+           x="130"
+           y="145" />
+      </g>
+      <rect
+         style="fill:#9ab1cd;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect909"
+         width="15"
+         height="1"
+         x="66.999954"
+         y="60.999966" />
+    </g>
+  </g>
+</svg>

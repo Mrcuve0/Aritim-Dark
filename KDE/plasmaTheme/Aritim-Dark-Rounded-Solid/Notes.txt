@@ -1,0 +1,6 @@
+--> How to change transparency of panel
+    Modify panel-background.svgz, modify the opacity of the most left rectangle. 
+    This does not modify appearance of application menu dropdown window or calendar etc (to do that see next point)
+    
+--> How to change transparency of Calendar/Notifications etc?
+    Modify dialogs/background.svgz, modify the opacity of the most left rectangle
