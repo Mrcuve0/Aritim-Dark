@@ -54,8 +54,8 @@
 
 ### **2) 📦 AUR Packages**
 
-* [Aritim-Dark for **KDE**](https://aur.archlinux.org/packages/aritim-dark-kde/) ([bridnour](https://github.com/bridnour))
-* [Aritim-Dark for **GTK**](https://aur.archlinux.org/packages/aritim-dark-gtk/) ([bridnour](https://github.com/bridnour))
+* [Aritim-Dark for **KDE**](https://aur.archlinux.org/packages/aritim-dark-kde-git/) ([D3SOX](https://github.com/D3SOX))
+* [Aritim-Dark for **GTK**](https://aur.archlinux.org/packages/aritim-dark-gtk-git/) ([D3SOX](https://github.com/D3SOX))
 
 A big **thank you** goes to all the contributors, you are awesome!
 
