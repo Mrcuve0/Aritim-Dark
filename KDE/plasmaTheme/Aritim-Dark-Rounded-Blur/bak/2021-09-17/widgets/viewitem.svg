@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="115"
+   height="47"
+   viewBox="0 0 115.00001 47.000002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="viewitem.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3139"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop3137" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="55.461945"
+     inkscape:cy="21.874712"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox-midpoints="true"
+     units="px"
+     fit-margin-top="5"
+     lock-margins="true"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       originx="-110.00001"
+       originy="-114.00001" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-110,-114)">
+    <rect
+       style="opacity:0.508;fill:#7f8ca1;fill-opacity:1;fill-rule:nonzero;stroke-width:0.333333"
+       id="hover-center"
+       width="5"
+       height="5"
+       x="130"
+       y="135"
+       inkscape:label="#center" />
+    <g
+       id="hover-topright"
+       inkscape:label="#topright"
+       transform="matrix(2,0,0,2,-155.00001,-125.00001)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#7f8ca1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 145,130 h 5 c 0,-3 -2,-5 -5,-5 z"
+         id="path863-6-7"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="hover-topleft"
+       inkscape:label="#topleft"
+       transform="matrix(2,0,0,2,-130,-125)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#7f8ca1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 130,130 v -5 c -3,0 -5,2 -5,5 z"
+         id="path863"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="hover-bottomleft"
+       inkscape:label="#bottomleft"
+       transform="matrix(2,0,0,2,-130,-150)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#7f8ca1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 130,145 h -5 c 0,3 2,5 5,5 z"
+         id="path863-3"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g1009" />
+    </g>
+    <g
+       id="hover-bottomright"
+       inkscape:label="#bottomright"
+       transform="matrix(2,0,0,2,-155,-150)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#7f8ca1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 145,145 v 5 c 3,0 5,-2 5,-5 z"
+         id="path863-6"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="hover-top"
+       inkscape:label="#top"
+       transform="matrix(0.33333333,0,0,2,86.666665,-125)"
+       style="opacity:0.508">
+      <g
+         id="g997">
+        <g
+           id="g1003">
+          <rect
+             style="opacity:1;fill:#7f8ca1;fill-opacity:1"
+             id="rect847"
+             width="15"
+             height="5"
+             x="130"
+             y="125" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="hover-right"
+       inkscape:label="#right"
+       transform="matrix(2,0,0,0.33333333,-155,91.666668)"
+       style="fill-opacity:1;opacity:0.508">
+      <rect
+         style="opacity:1;fill:#7f8ca1;fill-opacity:1"
+         id="rect851"
+         width="5"
+         height="15"
+         x="145"
+         y="130" />
+    </g>
+    <g
+       id="hover-bottom"
+       inkscape:label="#bottom"
+       transform="matrix(0.33333333,0,0,2,86.666665,-150)"
+       style="opacity:0.508">
+      <rect
+         style="opacity:1;fill:#7f8ca1;fill-opacity:1"
+         id="rect833"
+         width="15"
+         height="5"
+         x="130"
+         y="145" />
+    </g>
+    <g
+       id="hover-left"
+       inkscape:label="#left"
+       transform="matrix(2,0,0,0.33333333,-130,91.666668)"
+       style="fill-opacity:1;opacity:0.508">
+      <g
+         id="g1006"
+         style="fill-opacity:1">
+        <rect
+           style="opacity:1;fill:#7f8ca1;fill-opacity:1"
+           id="rect837"
+           width="5"
+           height="15"
+           x="125"
+           y="130" />
+      </g>
+    </g>
+    <rect
+       style="fill:#b5c9e1;fill-opacity:1;fill-rule:nonzero;stroke-width:0.333333;opacity:0.508"
+       id="selected-center"
+       width="5"
+       height="5"
+       x="164.99998"
+       y="134.99998"
+       inkscape:label="#center" />
+    <g
+       id="selected-topright"
+       inkscape:label="#topright"
+       transform="matrix(2,0,0,2,-120.00002,-125.00002)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#b5c9e1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 145,130 h 5 c 0,-3 -2,-5 -5,-5 z"
+         id="path863-6-7-7"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="selected-topleft"
+       inkscape:label="#topleft"
+       transform="matrix(2,0,0,2,-95.000013,-125.00001)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#b5c9e1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 130,130 v -5 c -3,0 -5,2 -5,5 z"
+         id="path863-35"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="selected-bottomleft"
+       inkscape:label="#bottomleft"
+       transform="matrix(2,0,0,2,-95.000013,-150.00001)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#b5c9e1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 130,145 h -5 c 0,3 2,5 5,5 z"
+         id="path863-3-2"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g1009-9" />
+    </g>
+    <g
+       id="selected-bottomright"
+       inkscape:label="#bottomright"
+       transform="matrix(2,0,0,2,-120.00001,-150.00001)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#b5c9e1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 145,145 v 5 c 3,0 5,-2 5,-5 z"
+         id="path863-6-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="selected-top"
+       inkscape:label="#top"
+       transform="matrix(0.33333333,0,0,2,121.66666,-125.00001)"
+       style="opacity:0.508">
+      <g
+         id="g997-0">
+        <g
+           id="g1003-9">
+          <rect
+             style="opacity:1;fill:#b5c9e1;fill-opacity:1"
+             id="rect847-3"
+             width="15"
+             height="5"
+             x="130"
+             y="125" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="selected-right"
+       inkscape:label="#right"
+       transform="matrix(2,0,0,0.33333333,-120.00001,91.666657)"
+       style="fill-opacity:1;opacity:0.508">
+      <rect
+         style="opacity:1;fill:#b5c9e1;fill-opacity:1"
+         id="rect851-0"
+         width="5"
+         height="15"
+         x="145"
+         y="130" />
+    </g>
+    <g
+       id="selected-bottom"
+       inkscape:label="#bottom"
+       transform="matrix(0.33333333,0,0,2,121.66666,-150.00001)"
+       style="opacity:0.508">
+      <rect
+         style="opacity:1;fill:#b5c9e1;fill-opacity:1"
+         id="rect833-2"
+         width="15"
+         height="5"
+         x="130"
+         y="145" />
+    </g>
+    <g
+       id="selected-left"
+       inkscape:label="#left"
+       transform="matrix(2,0,0,0.33333333,-95.000013,91.666657)"
+       style="fill-opacity:1;opacity:0.508">
+      <g
+         id="g1006-1"
+         style="fill-opacity:1">
+        <rect
+           style="opacity:1;fill:#b5c9e1;fill-opacity:1"
+           id="rect837-8"
+           width="5"
+           height="15"
+           x="125"
+           y="130" />
+      </g>
+    </g>
+    <rect
+       style="fill:#4a617a;fill-opacity:1;fill-rule:nonzero;stroke-width:0.333333;opacity:0.508"
+       id="selected_hover-center"
+       width="5"
+       height="5"
+       x="199.99998"
+       y="134.99998"
+       inkscape:label="#center" />
+    <g
+       id="selected_hover-topright"
+       inkscape:label="#topright"
+       transform="matrix(2,0,0,2,-85.000026,-125.00002)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#4a617a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 145,130 h 5 c 0,-3 -2,-5 -5,-5 z"
+         id="path863-6-7-7-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="selected_hover-topleft-0"
+       inkscape:label="#topleft"
+       transform="matrix(2,0,0,2,-60.000016,-125.00001)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#4a617a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 130,130 v -5 c -3,0 -5,2 -5,5 z"
+         id="path863-35-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="selected_hover-bottomleft"
+       inkscape:label="#bottomleft"
+       transform="matrix(2,0,0,2,-60.000016,-150.00001)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#4a617a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 130,145 h -5 c 0,3 2,5 5,5 z"
+         id="path863-3-2-7"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g1009-9-5" />
+    </g>
+    <g
+       id="selected_hover-bottomright"
+       inkscape:label="#bottomright"
+       transform="matrix(2,0,0,2,-85.000016,-150.00001)"
+       style="opacity:0.508">
+      <path
+         style="opacity:1;fill:#4a617a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 145,145 v 5 c 3,0 5,-2 5,-5 z"
+         id="path863-6-2-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="selected_hover-top"
+       inkscape:label="#top"
+       transform="matrix(0.33333333,0,0,2,156.66666,-125.00001)"
+       style="opacity:0.508">
+      <g
+         id="g997-0-8">
+        <g
+           id="g1003-9-9">
+          <rect
+             style="opacity:1;fill:#4a617a;fill-opacity:1"
+             id="rect847-3-7"
+             width="15"
+             height="5"
+             x="130"
+             y="125" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="selected_hover-right"
+       inkscape:label="#right"
+       transform="matrix(2,0,0,0.33333333,-85.000016,91.66666)"
+       style="fill-opacity:1;opacity:0.508">
+      <rect
+         style="opacity:1;fill:#4a617a;fill-opacity:1"
+         id="rect851-0-6"
+         width="5"
+         height="15"
+         x="145"
+         y="130" />
+    </g>
+    <g
+       id="selected_hover-bottom"
+       inkscape:label="#bottom"
+       transform="matrix(0.33333333,0,0,2,156.66666,-150.00001)"
+       style="opacity:0.508">
+      <rect
+         style="opacity:1;fill:#4a617a;fill-opacity:1"
+         id="rect833-2-2"
+         width="15"
+         height="5"
+         x="130"
+         y="145" />
+    </g>
+    <g
+       id="selected_hover-left"
+       inkscape:label="#left"
+       transform="matrix(2,0,0,0.33333333,-60.000016,91.66666)"
+       style="fill-opacity:1;opacity:0.508">
+      <g
+         id="g1006-1-3"
+         style="fill-opacity:1">
+        <rect
+           style="opacity:1;fill:#4a617a;fill-opacity:1"
+           id="rect837-8-1"
+           width="5"
+           height="15"
+           x="125"
+           y="130" />
+      </g>
+    </g>
+  </g>
+</svg>

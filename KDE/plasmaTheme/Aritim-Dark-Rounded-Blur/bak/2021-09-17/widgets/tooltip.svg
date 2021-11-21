@@ -1,34 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="145"
    height="77.000008"
    viewBox="0 0 145.00002 77.000007"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="background.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="tooltip.svg">
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1323">
-      <stop
-         style="stop-color:#000000;stop-opacity:0"
-         offset="0"
-         id="stop1319" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.2"
-         offset="1"
-         id="stop1321" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient938">
@@ -131,7 +120,7 @@
     </linearGradient>
     <linearGradient
        id="linearGradient3139"
-       inkscape:swatch="solid">
+       osb:paint="solid">
       <stop
          style="stop-color:#ff0000;stop-opacity:1;"
          offset="0"
@@ -170,7 +159,7 @@
        gradientTransform="matrix(0,0.33333317,-1,0,304.99994,70.000031)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1323"
+       xlink:href="#gradient-right"
        id="linearGradient1161"
        gradientUnits="userSpaceOnUse"
        gradientTransform="rotate(180,167.49995,137.49999)"
@@ -229,9 +218,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="12.838407"
-     inkscape:cy="34.64823"
+     inkscape:zoom="11.313709"
+     inkscape:cx="27.168471"
+     inkscape:cy="30.31927"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -264,8 +253,7 @@
      lock-margins="true"
      fit-margin-left="20"
      fit-margin-right="20"
-     fit-margin-bottom="20"
-     inkscape:pagecheckerboard="0">
+     fit-margin-bottom="20">
     <inkscape:grid
        type="xygrid"
        id="grid10"
@@ -316,25 +304,23 @@
        d="m 190.99995,144.99999 h -6 v -15 h 6 z"
        id="shadow-right" />
     <rect
-       style="fill:#10151a;fill-opacity:0.64999998;fill-rule:nonzero;stroke-width:0.333333"
+       style="fill:#00ffff;fill-opacity:0.3019608;fill-rule:nonzero;stroke-width:0.333333"
        id="center"
-       width="15.000000"
-       height="15.0000"
+       width="15.000009"
+       height="15.000037"
        x="114.99995"
        y="129.99995"
-       inkscape:label="#center"
-       class="ColorScheme-Background" />
+       inkscape:label="#center" />
     <g
        id="topright"
        inkscape:label="#topright"
        transform="matrix(2,0,0,2,-160.00002,-130.00002)"
        style="opacity:1">
       <path
-         style="opacity:1;fill:#10151a;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#00ffff;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 145,130 h 5 c 0,-3 -2,-5 -5,-5 z"
          id="path863-6-7"
-         sodipodi:nodetypes="cccc"
-         class="ColorScheme-Background" />
+         sodipodi:nodetypes="cccc" />
     </g>
     <g
        id="topleft"
@@ -342,22 +328,20 @@
        transform="matrix(2,0,0,2,-145.00003,-130.00002)"
        style="opacity:1">
       <path
-         style="opacity:1;fill:#10151a;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#00ffff;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 130,130 v -5 c -3,0 -5,2 -5,5 z"
          id="path863"
-         sodipodi:nodetypes="cccc"
-         class="ColorScheme-Background" />
+         sodipodi:nodetypes="cccc" />
     </g>
     <g
        id="bottomleft"
        inkscape:label="#bottomleft"
        transform="matrix(2,0,0,2,-145.00002,-145.00002)">
       <path
-         style="fill:#10151a;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#00ffff;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 130,145 h -5 c 0,3 2,5 5,5 z"
          id="path863-3"
-         sodipodi:nodetypes="cccc"
-         class="ColorScheme-Background" />
+         sodipodi:nodetypes="cccc" />
       <g
          id="g1009" />
     </g>
@@ -366,11 +350,10 @@
        inkscape:label="#bottomright"
        transform="matrix(2,0,0,2,-196.00002,-164.00002)">
       <path
-         style="fill:#10151a;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#00ffff;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 163,154.5 v 5 c 3,0 5,-2 5,-5 z"
          id="path863-6"
-         sodipodi:nodetypes="cccc"
-         class="ColorScheme-Background" />
+         sodipodi:nodetypes="cccc" />
     </g>
     <g
        id="top"
@@ -382,13 +365,12 @@
         <g
            id="g1003">
           <rect
-             style="opacity:1;fill:#10151a;fill-opacity:0.64999998"
+             style="opacity:1;fill:#00ffff;fill-opacity:0.301961"
              id="rect847"
              width="22.578926"
              height="5.0000057"
              x="122.47368"
-             y="125"
-             class="ColorScheme-Background" />
+             y="125" />
         </g>
       </g>
     </g>
@@ -406,13 +388,12 @@
        transform="matrix(2,0,0,1,-160.00002,-2.1e-5)"
        style="fill-opacity:1">
       <rect
-         style="fill:#10151a;fill-opacity:0.64999998"
+         style="fill:#00ffff;fill-opacity:0.3019608"
          id="rect851"
          width="5"
          height="15"
          x="145"
-         y="130"
-         class="ColorScheme-Background" />
+         y="130" />
     </g>
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.26491"
@@ -427,13 +408,12 @@
        inkscape:label="#bottom"
        transform="matrix(0.99999994,0,0,2,-15.000022,-145.00002)">
       <rect
-         style="fill:#10151a;fill-opacity:0.64999998"
+         style="fill:#00ffff;fill-opacity:0.3019608"
          id="rect833"
          width="15"
          height="5"
          x="130"
-         y="145"
-         class="ColorScheme-Background" />
+         y="145" />
     </g>
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.2649"
@@ -452,13 +432,12 @@
          id="g1006"
          style="fill-opacity:1">
         <rect
-           style="fill:#10151a;fill-opacity:0.64999998"
+           style="fill:#00ffff;fill-opacity:0.3019608"
            id="rect837"
            width="5"
            height="15"
            x="125"
-           y="130"
-           class="ColorScheme-Background" />
+           y="130" />
       </g>
     </g>
     <rect
@@ -717,7 +696,7 @@
        style="opacity:1" />
     <rect
        style="fill:#00ffff;fill-opacity:0.8;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="AAA-hint-apply-color-scheme"
+       id="hint-apply-color-scheme"
        width="2"
        height="2"
        x="96.999947"
