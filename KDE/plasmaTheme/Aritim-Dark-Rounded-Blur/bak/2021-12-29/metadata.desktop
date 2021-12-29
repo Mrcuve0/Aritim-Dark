@@ -12,7 +12,7 @@ X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-Name=Aritim-Dark-Rounded-Blur
 
 # If you do changes to SVG files in your theme, make sure to update the version number X-KDE-PluginInfo-Version so Plasma can properly refresh its cache.
-X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Version=0.9
 X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
 X-Plasma-API=5.0
 

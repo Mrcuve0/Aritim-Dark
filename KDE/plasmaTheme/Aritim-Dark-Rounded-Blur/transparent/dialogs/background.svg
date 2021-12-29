@@ -5,7 +5,7 @@
    viewBox="0 0 145.00002 77.000007"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -229,9 +229,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="12.838407"
-     inkscape:cy="34.64823"
+     inkscape:zoom="16.000001"
+     inkscape:cx="19.281249"
+     inkscape:cy="39.937498"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -316,7 +316,7 @@
        d="m 190.99995,144.99999 h -6 v -15 h 6 z"
        id="shadow-right" />
     <rect
-       style="fill:#10151a;fill-opacity:0.64999998;fill-rule:nonzero;stroke-width:0.333333"
+       style="fill:#10151a;fill-opacity:0.80000001;fill-rule:nonzero;stroke-width:0.333333"
        id="center"
        width="15.000000"
        height="15.0000"
@@ -328,9 +328,9 @@
        id="topright"
        inkscape:label="#topright"
        transform="matrix(2,0,0,2,-160.00002,-130.00002)"
-       style="opacity:1">
+       style="opacity:1;fill:#10151a;fill-opacity:0.80000001">
       <path
-         style="opacity:1;fill:#10151a;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#10151a;fill-opacity:0.80000001;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 145,130 h 5 c 0,-3 -2,-5 -5,-5 z"
          id="path863-6-7"
          sodipodi:nodetypes="cccc"
@@ -340,9 +340,9 @@
        id="topleft"
        inkscape:label="#topleft"
        transform="matrix(2,0,0,2,-145.00003,-130.00002)"
-       style="opacity:1">
+       style="opacity:1;fill:#10151a;fill-opacity:0.80000001">
       <path
-         style="opacity:1;fill:#10151a;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#10151a;fill-opacity:0.80000001;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 130,130 v -5 c -3,0 -5,2 -5,5 z"
          id="path863"
          sodipodi:nodetypes="cccc"
@@ -351,22 +351,25 @@
     <g
        id="bottomleft"
        inkscape:label="#bottomleft"
-       transform="matrix(2,0,0,2,-145.00002,-145.00002)">
+       transform="matrix(2,0,0,2,-145.00002,-145.00002)"
+       style="fill:#10151a;fill-opacity:0.80000001">
       <path
-         style="fill:#10151a;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#10151a;fill-opacity:0.80000001;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 130,145 h -5 c 0,3 2,5 5,5 z"
          id="path863-3"
          sodipodi:nodetypes="cccc"
          class="ColorScheme-Background" />
       <g
-         id="g1009" />
+         id="g1009"
+         style="fill:#10151a;fill-opacity:0.80000001" />
     </g>
     <g
        id="bottomright"
        inkscape:label="#bottomright"
-       transform="matrix(2,0,0,2,-196.00002,-164.00002)">
+       transform="matrix(2,0,0,2,-196.00002,-164.00002)"
+       style="fill:#10151a;fill-opacity:0.80000001">
       <path
-         style="fill:#10151a;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#10151a;fill-opacity:0.80000001;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 163,154.5 v 5 c 3,0 5,-2 5,-5 z"
          id="path863-6"
          sodipodi:nodetypes="cccc"
@@ -376,13 +379,15 @@
        id="top"
        inkscape:label="#top"
        transform="matrix(0.66433525,0,0,2,33.636388,-130.00002)"
-       style="opacity:1">
+       style="opacity:1;fill:#10151a;fill-opacity:0.80000001">
       <g
-         id="g997">
+         id="g997"
+         style="fill:#10151a;fill-opacity:0.80000001">
         <g
-           id="g1003">
+           id="g1003"
+           style="fill:#10151a;fill-opacity:0.80000001">
           <rect
-             style="opacity:1;fill:#10151a;fill-opacity:0.64999998"
+             style="opacity:1;fill:#10151a;fill-opacity:0.80000001"
              id="rect847"
              width="22.578926"
              height="5.0000057"
@@ -404,9 +409,9 @@
        id="right"
        inkscape:label="#right"
        transform="matrix(2,0,0,1,-160.00002,-2.1e-5)"
-       style="fill-opacity:1">
+       style="fill-opacity:0.80000001;fill:#10151a">
       <rect
-         style="fill:#10151a;fill-opacity:0.64999998"
+         style="fill:#10151a;fill-opacity:0.80000001"
          id="rect851"
          width="5"
          height="15"
@@ -425,9 +430,10 @@
     <g
        id="bottom"
        inkscape:label="#bottom"
-       transform="matrix(0.99999994,0,0,2,-15.000022,-145.00002)">
+       transform="matrix(0.99999994,0,0,2,-15.000022,-145.00002)"
+       style="fill:#10151a;fill-opacity:0.80000001">
       <rect
-         style="fill:#10151a;fill-opacity:0.64999998"
+         style="fill:#10151a;fill-opacity:0.80000001"
          id="rect833"
          width="15"
          height="5"
@@ -447,12 +453,12 @@
        id="left"
        inkscape:label="#left"
        transform="matrix(2,0,0,1,-145.00003,-1.8e-5)"
-       style="fill-opacity:1">
+       style="fill-opacity:0.80000001;fill:#10151a">
       <g
          id="g1006"
-         style="fill-opacity:1">
+         style="fill-opacity:0.80000001;fill:#10151a">
         <rect
-           style="fill:#10151a;fill-opacity:0.64999998"
+           style="fill:#10151a;fill-opacity:0.80000001"
            id="rect837"
            width="5"
            height="15"
